@@ -1,11 +1,3 @@
 [build]
 publish = "public"
 command = "gatsby build"
-
-[context.production.environment]
-HUGO_VERSION = "0.40.3"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
