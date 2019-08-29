@@ -10,7 +10,7 @@ Just got back from a successful day of filming at Trevor Towers across the other
 end of Lancaster. I’d been asked by HowdenJones (Twitter, Website, Facebook) to
 do a similar job as with this Quay Change video...
 
-- `youtube: oDapozT_ctM`
+`youtube: oDapozT_ctM`
 
 I’ve accepted of course, and now there is over 5GB of video, 800MB of audio and
 53 photographs. All in delicious black and white for colourphobics. You can see

@@ -1,10 +1,10 @@
 ---
-title: Training 2 and London Life 2… 3?
+title: Training 2 and London Life 2... 3?
 date: "2012-04-03T12:00:00.000Z"
-description: Training 2 and London Life 2… 3?
+description: Training 2 and London Life 2... 3?
 ---
 
-# Evening all…
+# Evening all...
 I’d best kick off with a round up of the sponsorship progress.
 
 The most glorious of thanks goes out to **Grandad, Dad, The Wilkinsons (Paul,

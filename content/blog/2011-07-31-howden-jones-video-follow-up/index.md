@@ -68,8 +68,8 @@ shot, and no video for the best audio take. So each 3 or 4 seconds I had to do
 little nip/tuck syncing, as thy weren’t at exactly the same tempo. Considering
 this its not come out too bad!
 
-- `youtube: nPbxtNRr5FE`
+`youtube: nPbxtNRr5FE`
 
-- `youtube: gi3HaGZeeyM`
+`youtube: gi3HaGZeeyM`
 
 Thanks for reading.
