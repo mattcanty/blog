@@ -1,6 +1,7 @@
 ---
 title: Totally my first blog… Procrast’s Finest Hour
 date: "2011-05-27T12:00:00.000Z"
+description: Totally my first blog… Procrast’s Finest Hour
 ---
 
 Need to think of a good first word to say, although perhaps I missed my chance.
@@ -16,7 +17,7 @@ they should have been doing. For example my cousin tells me during revision for
 his masters – or something, he and his housemates set up an intercom system
 between every room in the house. And I took the picture below on a Wednesday
 evening, when an exam was at 1400 the next day – was on my way to see Billy
-Elliot the Musical, very good. 
+Elliot the Musical, very good.
 
 For those unaware of the significance – everyone, Google says that its 241 miles
 from Buckingham Palace to Lancaster University – taking the M1 to Watford and

@@ -1,9 +1,10 @@
 ---
 title: UK End 2 End Bike Ride for Action
 date: "2012-06-06T12:00:00.000Z"
+description: UK End 2 End Bike Ride for Action
 ---
 
-`youtube: SaVPhWxMW8I`
+- `youtube: SaVPhWxMW8I`
 **WOW! What a journey.** I got back last night and this is there first time I
 have been on my own with my thoughts for two weeks. It’s been an insane
 experience to be part of. Just watched the weather and it really came to light
@@ -74,7 +75,7 @@ night and with what little I got was interrupted at 5am. The video provides an
 insight to this most wondrous time of the morning and how we are to be forcibly
 woken for the next 8 or 9 mornings.
 
-`youtube: _ywfvrZBmrw`
+- `youtube: _ywfvrZBmrw`
 But of a sluggish start, but everything got together well in the end. Breakfast
 was a feast of a a full English breakfast, followed by a bowl of porridge with
 honey and a banana. Following this stock intake we cycled down to the coast,
@@ -331,7 +332,7 @@ Home At home I was greeted by cake and my beautiful Jane
 So there you have it. I did it. But I needed help. And you might be reading this
 and thinking I need help . The best advice and help I got was from
 [Cadence Performance](http://cadenceperformance.com/) who do a good-as-you-can-
-get standard fitting which quite literally saved my knees, and 
+get standard fitting which quite literally saved my knees, and
 [Brixton Cycles](http://www.brixtoncycles.co.uk/) who were endlessly patient
 waiting for compensation – and of course helping me select my new bike.
 

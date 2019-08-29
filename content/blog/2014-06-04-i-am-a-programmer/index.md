@@ -1,6 +1,7 @@
 ---
 title: I am a Programmer (or Developer)
 date: "2014-06-24T12:00:00.000Z"
+description: I am a Programmer (or Developer)
 ---
 
 Good how!
@@ -53,7 +54,7 @@ statement is our test: *“if there are more than 0 arguments then do this”*. 
 `else` block **captures** anything which does not pass this test.
 
 Our program outputs a message using `System.Console.Writeline`. Now you’ll need
-to imagine some white text appearing in a black box. If you don’t know what I 
+to imagine some white text appearing in a black box. If you don’t know what I
 mean then go to Start > Run > Type `“cmd”` > Hit Enter. This is Command Prompt!
 
 So I hope you can see what our program does now… If you were to run our program

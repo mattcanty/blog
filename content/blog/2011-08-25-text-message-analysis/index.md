@@ -1,6 +1,7 @@
 ---
 title: Text Message Analysis
 date: "2011-08-25T12:00:00.000Z"
+description: Text Message Analysis
 ---
 
 # Idea
@@ -58,7 +59,7 @@ me the data on the phone, now it won’t. All I did was unplug and plug it back 
 again.
 
 By laying out like that we can start to assign lines with titles. The first half
-of the file is `INBOX` and following roughly halfway through the file – or at 
+of the file is `INBOX` and following roughly halfway through the file – or at
 `INBOX_fi,ENVIATS_ini` – it becomes the `OUTBOX`. This is the first two messages
 this phone received to my phone. Not sure what the 1 or the null are referring
 too, as they remain as such throughout the document. My suspicion is the `null`
@@ -96,7 +97,7 @@ error.
 ### 4. Go through the $exData array and prepare for MySQL INSERT query
 
 To do this I used a `foreach` loop with `$exData` as `$part`. Within the loop a
-`switch` statement acts on whether it is on line 1, 2, 3, 4, 5, 6, 7 or 8 – for 
+`switch` statement acts on whether it is on line 1, 2, 3, 4, 5, 6, 7 or 8 – for
 example:
 
 ```
@@ -122,7 +123,7 @@ order.
 # Cleaning the Data
 Before doing any analysis, it’s probably best to get rid of the strange
 characters in the messages. I just selected the message and ID rows from the
-whole data base, did a string replace and updated the database. Like: 
+whole data base, did a string replace and updated the database. Like:
 
 `$string = str_replace(“#k1ah4dc#”, “”, $string);`
 

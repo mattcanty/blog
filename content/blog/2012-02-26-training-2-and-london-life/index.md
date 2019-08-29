@@ -1,6 +1,7 @@
 ---
 title: Training 2 and London Life 2… 3?
 date: "2012-04-03T12:00:00.000Z"
+description: Training 2 and London Life 2… 3?
 ---
 
 # Evening all…
@@ -19,7 +20,7 @@ with cash please let me know.
 
 Wanna be involved like?
 If you’re in Lancaster and fancy winning money in the name of charity (and by
-all means do **keep** your winnings) I am trying to get an identical raffle 
+all means do **keep** your winnings) I am trying to get an identical raffle
 started at a certain pub where what I once worked at. Rules are as follows.
 
 * Cash prize = 20% takings
@@ -52,7 +53,7 @@ those who like to get a pint in at their usual holes can do so with great ease.
 
 Same old really, same old.
 
-Done a smooth 80 miles this weekend. 30 miles yesterday (Sat) and 50 miles 
+Done a smooth 80 miles this weekend. 30 miles yesterday (Sat) and 50 miles
 today. Check out the GPS links:
 
 http://connect.garmin.com/activity/152831863 – SAT, 30 miles
@@ -87,7 +88,7 @@ loud music, about 10 HUGE helium filled balloons were passed out to the
 audience. A real spectacle of a show, if not completely brain splittingly
 mental. I approve!
 
-[Cirque Du Soleil](http://www.cirquedusoleil.com/en/shows/totem/default.aspx): 
+[Cirque Du Soleil](http://www.cirquedusoleil.com/en/shows/totem/default.aspx):
 Despite being seated just past the north circular, the Totem show at the Albert
 Hall was quite stunning. Bit random at times (I said it again!), but
 entertaining still. Not much to say really, we all know what Cirque is, Google

@@ -1,6 +1,7 @@
 ---
 title: "End 2 End : And Other Stuff"
 date: "2011-11-15T12:00:00.000Z"
+description: "End 2 End : And Other Stuff"
 ---
 
 Hello. How are you? I’m fine, thanks for asking.
@@ -9,7 +10,7 @@ Glad that’s done.
 
 Well first things first – I’ve gone and applied for something mental, but many
 people have already done it so its not that mental. I am taking part in the End
-2 End challenge for Action Medical Research. Its a 1000 mile bike ride over 10 
+2 End challenge for Action Medical Research. Its a 1000 mile bike ride over 10
 days from Lands End to John o’ Groats – do the math.
 
 Obviously I’m going to need lots of support – both financialy for the charity,
@@ -33,7 +34,7 @@ It took me a long time to write that for some reason. A very important note for 
 
 Time for a video break?
 
-`youtube: QkkoHAzjnUs`
+- `youtube: QkkoHAzjnUs`
 
 Excited about this? I know I most certainly am. It looks like a remake of San
 Andreas but I certainly can’t complain about that – being one of the greatest

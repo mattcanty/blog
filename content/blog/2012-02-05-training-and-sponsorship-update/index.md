@@ -1,6 +1,7 @@
 ---
 title: Training and Sponsorship Update
 date: "2012-04-03T12:00:00.000Z"
+description: Training and Sponsorship Update
 ---
 
 Hi everyone. First and foremost a big thanks to all those who have donated so far.
@@ -89,7 +90,7 @@ device prior to these rides:
 
 [Jan 29th, 54.79 miles, 4 hours 30 minutes total](https://www.strava.com/activities/7170822)
 
-Know I’ve got a lot more to do, but I’m quite happy that these rides haven’t 
+Know I’ve got a lot more to do, but I’m quite happy that these rides haven’t
 completely exhausted me. I have some back to back weekend rides pencilled in and
 some other things which are…
 
@@ -97,7 +98,7 @@ some other things which are…
 Yes, MORE big rides are very soon to be booked. I have found out that as I am
 enrolled on the Lands’ End to John O’Groats I can get a discount on entering
 other UK rides and do not need to raise the extra sponsorship for the individual
-rides. So it looks like I’m going to be doing three one hundred mile rides 
+rides. So it looks like I’m going to be doing three one hundred mile rides
 before the biggie. I’d say doing two of these at the least will be essential to
 gaining a psychological understanding of the distances involved. More on that in
 my next post.

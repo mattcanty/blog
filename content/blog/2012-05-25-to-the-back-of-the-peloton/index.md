@@ -1,6 +1,7 @@
 ---
 title: To The Back of The Peloton
 date: "2012-05-25T12:00:00.000Z"
+description: To The Back of The Peloton
 ---
 
 **Edit: Hey ho, this is a bit sad. Having moved my blog from WordPress to
@@ -10,7 +11,7 @@ errors – and no photos…**
 
 I still don’t really believe that I’m of in the morning on this crazy challenge.
 Hopefully all is now set – got my packing lists, and just a few more key
-ingredients need to be purchased. Then to the train and good-bye comfort for 9 
+ingredients need to be purchased. Then to the train and good-bye comfort for 9
 days! Here’s to good weather as I haven’t managed to get the all important
 water-proof shoe covers.
 
@@ -22,7 +23,7 @@ scroll!
 
 Hugest thank-you to all of you donating to the cause. Really can’t believe how
 far it has now come. Just broken through the £2000 barrier today, and I have yet
-more cash ready to whack up there pronto. Fully aware of a few people out there 
+more cash ready to whack up there pronto. Fully aware of a few people out there
 who still intend to donate and I look forward to it. Here is the link.
 
 # What Gear?

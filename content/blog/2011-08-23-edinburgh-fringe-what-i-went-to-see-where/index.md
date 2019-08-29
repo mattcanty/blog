@@ -1,6 +1,7 @@
 ---
 title: Edinburgh Fringe – What I went to see where
 date: "2011-08-23T12:00:00.000Z"
+description: Edinburgh Fringe – What I went to see where
 ---
 
 > NB what you are about to read is not a review.
@@ -19,7 +20,7 @@ Musicophilia, a great book so far, and full of amazing true stories – a must
 read if you’re wondering why songs get stuck in your head, for example –
 [good friend Nick’s video](http://www.youtube.com/watch?v=IoKR3HChy0M).
 
-Anyway nuffa that tripe. Arrived at un-sunny Edingerburger at 1422 and power 
+Anyway nuffa that tripe. Arrived at un-sunny Edingerburger at 1422 and power
 walked it over to the Paylor house-hold, where Paylor expectedly said “I thought
 it would be you” even though I tried so hard to surprise. Following this we did
 some stuff, although I can’t remember any of it – apart from we bought gin+tonic
@@ -46,7 +47,7 @@ lives. This didn’t stop Ste Hudson giving a brilliant award winning rendition 
 I Feel Good and a not so inspiring whilst hugely entertaining Harry Dog gave us
 Thunder Road – Bruce Springsteen.
 
-After this it all gets hazy, I’ll go with quick facts. Went to Sneaky Petes, 
+After this it all gets hazy, I’ll go with quick facts. Went to Sneaky Petes,
 there was reggae, there was a stage, we danced on it, there was Jager, there was
 Harry Dogs flexing, there was arguing the same side of an argument for a long
 time with Andy, and there was crashing at about 5.

@@ -1,6 +1,7 @@
 ---
 title: Coast to Coast in a Day
 date: "2013-10-30T12:00:00.000Z"
+description: Coast to Coast in a Day
 ---
 
 Hello world! As they say in programming spheres. This is my first in the new

@@ -1,6 +1,7 @@
 ---
 title: One Year In
 date: "2012-08-01T12:00:00.000Z"
+description: One Year In
 ---
 
 It is a year to the day since I move to London. And I can say with some

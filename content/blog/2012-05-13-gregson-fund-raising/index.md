@@ -1,6 +1,7 @@
 ---
 title: Gregson Fund Raising
 date: "2012-05-13T12:00:00.000Z"
+description: Gregson Fund Raising
 ---
 
 # The Gig

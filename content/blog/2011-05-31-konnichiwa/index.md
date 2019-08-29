@@ -1,6 +1,7 @@
 ---
 title: Konnichiwa
 date: "2011-05-31T12:00:00.000Z"
+description: Konnichiwa
 ---
 
 Well, good afternoon as I just said. Report writing is going just fine –

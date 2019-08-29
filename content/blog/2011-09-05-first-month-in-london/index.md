@@ -1,6 +1,7 @@
 ---
 title: First Month in London / Job Interview Tips
 date: "2011-09-05T12:00:00.000Z"
+description: First Month in London / Job Interview Tips
 ---
 
 Thought I’d better get this down in blog town, as its been a tad fun.
@@ -87,9 +88,9 @@ how well your CV is received, don’t sucker for recruitments asking you if you�
 interested in a different sector to what you want – say “no” for example.
 
 * When it comes to chose, have a think. Commuting costs and time, I nearly ended
-up with a £4k yearly commute, which would have probably made me quite depressed. 
+up with a £4k yearly commute, which would have probably made me quite depressed.
 So if you are getting at interviews and are offered a job, can you deal with the
-commute now you have been for the interview and tried it? Is it too 
+commute now you have been for the interview and tried it? Is it too
 long/expensive and do you like the place. If there are any no’s it will seem
 ridiculous but you can turn the offer down. More interviews will come and you
 can take that confidence that you were offered a job with you – even use it as a
@@ -98,7 +99,7 @@ talking point in the future.
 * The YOU bit. Degree is not really enough which is a shame. We all knew that
 though. But also you can get experience on your own. Alongside uni clubs,
 societies and awards, there is working at home and engaging with the subject you
-enjoy – even alone. The first section of my CV was all information regarding 
+enjoy – even alone. The first section of my CV was all information regarding
 projects I had undertaken and taught myself at home, I included this with all
 cover letters and utilised it in interviews. I joined no clubs, societies and
 have no awards other than my degree. This extra work undoubtedly got me more

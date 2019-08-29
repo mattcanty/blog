@@ -1,6 +1,7 @@
 ---
 title: Facing the Music!
 date: "2013-03-10T12:00:00.000Z"
+description: Facing the Music!
 ---
 
 It’s been getting quite musical down here – and I’m not talking about Jane’s

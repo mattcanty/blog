@@ -1,6 +1,7 @@
 ---
 title: Ecky Pies, Ecky Thump, Double Grump
 date: "2012-04-03T12:00:00.000Z"
+description: Ecky Pies, Ecky Thump, Double Grump
 ---
 
 # Whinge
@@ -9,7 +10,7 @@ Its a bit of a whinge this time everyone. Mid to late March didn’t quite pan o
 the way I intended to say the least…
 
 On Tuesday night following a particularly heavy weekend in Lancaster – you all
-know who you are! – my bike **wheels** were stolen. It was a right bummer that 
+know who you are! – my bike **wheels** were stolen. It was a right bummer that
 day, all the training I had planned ruined. Made it much harder to reach the gym
 for some reason too, who wants to get off a bus?…
 
@@ -26,12 +27,12 @@ So I got a new bike.
 
 # You Gadda be Kiddin Me!
 
-So yes I got a new bike, and flippin’ heck it was quick. And this time no 
+So yes I got a new bike, and flippin’ heck it was quick. And this time no
 chances were being taken locking it up. D-Locked to the wall, nice thick cable
 round the wheels, covered up and insured **immediately**. Yoga, sleep, wake-up,
 WHEELS GONE AGAIN! *and saddle*.
 
-So yeah it wasn’t a very good start really. Lost a lot of training miles 
+So yeah it wasn’t a very good start really. Lost a lot of training miles
 considering I’d been in Lancaster the weekend before it all happened.
 
 # Pain – it goes on…
@@ -61,7 +62,7 @@ reupload them. If you see this message, do pop me an email.
 
 Also last Saturday night was the epic party of Jan & Ann! The Musical… . It was
 Guilty Pleasures at Koko with the theme of Musical Theatre and everyone turned
-out reet good. I went as a convincing scarecrow with real straw for straw. It 
+out reet good. I went as a convincing scarecrow with real straw for straw. It
 was [like this](http://www.guiltypleasures.co.uk/photos?album=1&gallery=81).
 
 Also seen Sweeney Todd, Shrek the Musical and Noises Off all of which were

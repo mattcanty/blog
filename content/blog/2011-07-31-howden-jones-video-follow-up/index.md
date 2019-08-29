@@ -1,6 +1,7 @@
 ---
 title: Howden Jones Video Follow-Up
 date: "2011-07-31T12:00:00.000Z"
+description: Howden Jones Video Follow-Up
 ---
 
 So hey hey hey there. The videos are now finished and it’s probably about time I
@@ -25,7 +26,7 @@ folder for audio, video, editing and exports.
 
 ### 2
 
-I use Sony Vegas Pro – and it is GREAT. Frippin eck it’s the bee’s knees and all 
+I use Sony Vegas Pro – and it is GREAT. Frippin eck it’s the bee’s knees and all
 that. No other choice about it. I’ve had it since university and used it on all
 video projects.
 
@@ -67,8 +68,8 @@ shot, and no video for the best audio take. So each 3 or 4 seconds I had to do
 little nip/tuck syncing, as thy weren’t at exactly the same tempo. Considering
 this its not come out too bad!
 
-`youtube: nPbxtNRr5FE`
+- `youtube: nPbxtNRr5FE`
 
-`youtube: gi3HaGZeeyM`
+- `youtube: gi3HaGZeeyM`
 
 Thanks for reading.

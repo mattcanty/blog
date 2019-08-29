@@ -1,6 +1,7 @@
 ---
 title: The Health Binge
 date: "2011-07-10T12:00:00.000Z"
+description: The Health Binge
 ---
 
 This week is going to be the healthiest week of my life.
