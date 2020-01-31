@@ -4,7 +4,7 @@ date: "2020-01-31T12:00:00.000Z"
 description: A handy tip for pre-commit
 ---
 
-https://pre-commit.com/
+[pre-commit.com](https://pre-commit.com/)
 
 **pre-commit** is a straightforward way to ensure basic checks are maintained in a respository, before errors are even committed to a local branch.
 
@@ -51,7 +51,7 @@ repos:
       - id: check-merge-conflict
 ```
 
-There are lots of other hooks, see the supported list here: https://pre-commit.com/hooks.html
+There are lots of other hooks, see the supported list here: [pre-commit.com/hooks.htm](https://pre-commit.com/hooks.htm)l
 
 ## Caveat
 
@@ -63,7 +63,7 @@ Remember that pre-commit install is making a change to *your local revision*.
 
 Make use of GitHub actions, to run pre-commit checks post-push!
 
-Add the following to `.github/workflows/pre-commit.yml` (source https://github.com/pre-commit/action)
+Add the following to `.github/workflows/pre-commit.yml` (source [github.com/pre-commit/action](https://github.com/pre-commit/action))
 
 ```yaml
 name: pre-commit
