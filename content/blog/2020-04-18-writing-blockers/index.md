@@ -47,7 +47,7 @@ programming.
 I don't make it easy for myself...
 
 I write everything as _plain text_, if you are not sure what that looks like
-then take a quick look at this posts raw content on GitHub! You see what I mean?
+then take a quick look at this posts [raw content on GitHub](https://raw.githubusercontent.com/mattcanty/blog/master/content/blog/2020-04-18-writing-blockers/index.md)! You see what I mean?
 
 There is also a bit of house keeping in order to start a new post, not just a
 simple click of a button. Therefore I have written a quick script which quickly
