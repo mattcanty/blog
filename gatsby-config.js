@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://blog.mattcanty.com/`,
     social: {
       instagram: `cat_manty`,
-      linkedin: `matthewcanty`
+      linkedin: `matthewcanty`,
     },
   },
   plugins: [
@@ -41,8 +41,8 @@ module.exports = {
               ratio: 1.77,
               height: 400,
               related: false,
-              noIframeBorder: true
-            }
+              noIframeBorder: true,
+            },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,

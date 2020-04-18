@@ -8,26 +8,32 @@ These road-bike rides originate from Chamonix and range from 60 to 155 km. They 
 
 I was riding with friends I made cycling around the hills south of London — Dan, Andre and (for the first day) Jag.
 
-* **Day 1 Lac d’Émosson** [Strava](https://www.strava.com/activities/1011240555) / [Video](https://www.relive.cc/view/1011240555) / [GPX](https://www.strava.com/activities/1011240555/export_gpx)
-* **Day 2 Le Bettex** [Strava](https://www.strava.com/activities/1012616710) / [Video](https://www.relive.cc/view/1012616710) / [GPX](https://www.strava.com/activities/1012616710/export_gpx)
-* **Day 3 Col de La Forclaz** [Strava](https://www.strava.com/activities/1014414002) / [Video](https://www.relive.cc/view/1014414002) / [GPX](https://www.strava.com/activities/1014414002/export_gpx)
-* **Day 4 Col des Aravis e Col de La Colombière** [Strava](https://www.strava.com/activities/1016180749) / [Video](https://www.relive.cc/view/1016180749) / [GPX](https://www.strava.com/activities/1016180749/export_gpx)
-* **Day 5 Lac de Vieux Émosson** [Strava](https://www.strava.com/activities/1017502930) / [Video](https://www.relive.cc/view/1017502930) / [GPX](https://www.strava.com/activities/1017502930/export_gpx)
+- **Day 1 Lac d’Émosson** [Strava](https://www.strava.com/activities/1011240555) / [Video](https://www.relive.cc/view/1011240555) / [GPX](https://www.strava.com/activities/1011240555/export_gpx)
+- **Day 2 Le Bettex** [Strava](https://www.strava.com/activities/1012616710) / [Video](https://www.relive.cc/view/1012616710) / [GPX](https://www.strava.com/activities/1012616710/export_gpx)
+- **Day 3 Col de La Forclaz** [Strava](https://www.strava.com/activities/1014414002) / [Video](https://www.relive.cc/view/1014414002) / [GPX](https://www.strava.com/activities/1014414002/export_gpx)
+- **Day 4 Col des Aravis e Col de La Colombière** [Strava](https://www.strava.com/activities/1016180749) / [Video](https://www.relive.cc/view/1016180749) / [GPX](https://www.strava.com/activities/1016180749/export_gpx)
+- **Day 5 Lac de Vieux Émosson** [Strava](https://www.strava.com/activities/1017502930) / [Video](https://www.relive.cc/view/1017502930) / [GPX](https://www.strava.com/activities/1017502930/export_gpx)
 
 # Day 1 — Lac d’Émosson
+
 Up to Col des Montets, roughly 7km. They were working on the roads so had a big wait. The drop from Montets to the Swiss border is fun, and we gladly revisit it several times through the week. Border control was unattended except for dinosaur with a yellow cycle helmet. Shortly after, a left turn starts the first of many epic, unending climbs this week.
 
 At the reservoir there is a huge vista of the valley we cycled through earlier. Sunburnt, we neck pricy coffee - 3.80 Swiss francs for an exspresso(sic). On the way down we take a detour through the village of Finhaut and down some steep tight switchbacks. Half way down we pass Dumbledore in yellow shorts walking the other way. He laughs aloud at us. I laughed aloud at him.
 
 ![Jag, Dan and Andre at top of Lac d’Emosson. Col des Montets and Mont Blanc behind them.](./pano-from-lac-d-emosson.jpg)
 _Jag, Dan and Andre at top of Lac d’Emosson. Col des Montets and Mont Blanc behind them._
+
 # Day 2 — Le Bettex
 
-Heading west from Chamonix. Down through Vaudagne and on towards Passy. Passed a rock climbing area. Turning downhill before Passy to the bottom of the valley and headed through to Le Fayet.
+Heading west from Chamonix. Down through Vaudagne and on towards Passy. Passed a
+rock climbing area. Turning downhill before Passy to the bottom of the valley
+and headed through to Le Fayet.
 
 On our way to Megève we saw signs to climb up to Le Bettex so we followed them. It was a steepish twisting route up to Le Bettex ski lift. Swift ride back down to catching a few bugs on the way to Saint Gervais for pastries and coffee.
 Looped back home through Vaudagne which seemed easier than anticipated. Good wood stacks all over the place.
+
 # Day 3 — Col de La Forclaz
+
 Lost Andre on way up Col des Montets. His legs had gone.
 Dan+I Crossed into Switzerland and cycled up through terrifying tunnel towards La Triste. Dropped down the epic Col de la Forclaz to Martigny. A good 10 minutes doing nothing but shooting down smooth sweeping mountain roads. From cool breeze at the top to dry heat at the bottom. On finishing, turned immediately back on the hill to start ascending. Needed food though so pulled into pizza restaurant about 1km up.
 Margherite e Jus de pomme.

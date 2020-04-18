@@ -20,10 +20,10 @@ with Lou – the mastermind behind the band – putting together groups varying 
 availability and suitability.
 
 Even in this short space of time I’ve travelled around so much more of London
-and met so many interesting folks. Our cellist,  Maria. Drummer, Raphael.
+and met so many interesting folks. Our cellist, Maria. Drummer, Raphael.
 Producer, Steve. The French bassist Victor.
 
-I’m in the bus now. The one three three,  getting off at Borough to watch my
+I’m in the bus now. The one three three, getting off at Borough to watch my
 friends Ottersgear at The Gladstone Arms. Pretty tired though.
 
 Wrote this on my phone! Go future!

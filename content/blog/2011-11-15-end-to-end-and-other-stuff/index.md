@@ -25,10 +25,10 @@ exciting things. I suppose it will provide many writing opportunities too.
 
 Quick run of facts then –
 
-* 1000 miles, 10 days.
-* For Action Medical Research – http://www.action.org.uk/
-* Land’s End to John o’ Groats by bike.
-* Here is the Event Page – http://www.ukend2end.com/event.php
+- 1000 miles, 10 days.
+- For Action Medical Research – http://www.action.org.uk/
+- Land’s End to John o’ Groats by bike.
+- Here is the Event Page – http://www.ukend2end.com/event.php
 
 It took me a long time to write that for some reason. A very important note for all my friends is that the half-way point is in fact LANCASTER! How good is that. Fingers crossed we may be able to have a pint in The Lion that evening.
 

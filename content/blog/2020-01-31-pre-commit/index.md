@@ -12,9 +12,9 @@ This is particularly useful for light-touch validations like linting.
 
 Find out here how to:
 
-* Install pre-commit locally
-* Configure pre-commit to lint all your files on commit
-* Use GitHub actions to ensure nothing is merged pre-commit
+- Install pre-commit locally
+- Configure pre-commit to lint all your files on commit
+- Use GitHub actions to ensure nothing is merged pre-commit
 
 ## Installing
 
@@ -57,7 +57,7 @@ There are lots of other hooks, see the supported list here: [pre-commit.com/hook
 
 Installing pre-commit in a repo on your machine won’t automatically make pre-commit work in that repo on your colleagues machine.
 
-Remember that pre-commit install is making a change to *your local revision*.
+Remember that pre-commit install is making a change to _your local revision_.
 
 ### Work Around
 
@@ -77,15 +77,15 @@ jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-python@v1
-    - name: set PY
-      run: echo "::set-env name=PY::$(python --version --version | sha256sum | cut -d' ' -f1)"
-    - uses: actions/cache@v1
-      with:
-        path: ~/.cache/pre-commit
-        key: pre-commit|${{ env.PY }}|${{ hashFiles('.pre-commit-config.yaml') }}
-    - uses: pre-commit/action@v1.0.1
+      - uses: actions/checkout@v1
+      - uses: actions/setup-python@v1
+      - name: set PY
+        run: echo "::set-env name=PY::$(python --version --version | sha256sum | cut -d' ' -f1)"
+      - uses: actions/cache@v1
+        with:
+          path: ~/.cache/pre-commit
+          key: pre-commit|${{ env.PY }}|${{ hashFiles('.pre-commit-config.yaml') }}
+      - uses: pre-commit/action@v1.0.1
 ```
 
 This way if someone checks in badly formatted YAML because they forgot to pre-commit install, this workflow will catch them in the act before it is merged into master.

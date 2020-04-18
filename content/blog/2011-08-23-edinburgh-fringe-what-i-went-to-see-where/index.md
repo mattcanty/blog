@@ -7,7 +7,9 @@ description: Edinburgh Fringe – What I went to see where
 > NB what you are about to read is not a review.
 
 ## THURSDAY
+
 ### The Journey Chaff
+
 Started about 8.30am in Brixton, headed to the tube station and took the
 Victoria Line as far as Stockwell to change onto Northern Line for Kings Cross.
 Jane said “taraa then” at Stockwell too. Train was on time at 10am. Bought
@@ -38,6 +40,7 @@ and a party atmosphere. Good too meet everyone there and some new/old faces too.
 I won some scampi fries.
 
 ### Post Thyme Machine Destruction
+
 So yeah it got messy after that, but a really good messy. Headed first of all
 over to The Banshees which became a regular spot throughout my stay. In the pole
 dancing – yes pole dancing – room in the depths of its caves, and drank some
@@ -56,7 +59,7 @@ It was a bit of a game changer that one.
 
 ## FRIDAY
 
-Well I woke up feeling like *beep*.
+Well I woke up feeling like _beep_.
 
 Hauled out of bed about 12 as dads train was pulling in at 1221 or 1222.
 Power-walked in a momentous near-straight line towards Waverly, stopping off to
@@ -95,6 +98,7 @@ about him is NSFW.
 Likewise memory has escaped me again, think I just went to bed. Needed it.
 
 ## SATURDAY
+
 Woke up fresher on this day.
 
 ### Dave Gorman’s Powerpoint Presentation

@@ -30,7 +30,7 @@ So I got a new bike.
 So yes I got a new bike, and flippin’ heck it was quick. And this time no
 chances were being taken locking it up. D-Locked to the wall, nice thick cable
 round the wheels, covered up and insured **immediately**. Yoga, sleep, wake-up,
-WHEELS GONE AGAIN! *and saddle*.
+WHEELS GONE AGAIN! _and saddle_.
 
 So yeah it wasn’t a very good start really. Lost a lot of training miles
 considering I’d been in Lancaster the weekend before it all happened.

@@ -5,6 +5,7 @@ description: Gregson Fund Raising
 ---
 
 # The Gig
+
 How do there, on my home on the train, Contemplating how tired I am and what a
 success last night was. As I’m on the iPad there won’t be any pictures as
 they’re just too complicated to fathom. Here is a quick run down though…
@@ -28,6 +29,7 @@ In the end we raised £251. Super special thanks to those people who donated a
 little extra, I think I know who you are – ye get a smile from me.
 
 # 2 Weeks To Go
+
 So now it’s close. I mean really close. Just one more weekend of training, two
 more weeks of gym/yoga/after-work-cycling to go! Bike service Tuesday, and I get
 my second pro bike fitting on Wednesday to make sure those all important cleats

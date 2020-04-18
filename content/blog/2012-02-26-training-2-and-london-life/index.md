@@ -5,6 +5,7 @@ description: Training 2 and London Life 2... 3?
 ---
 
 # Evening all...
+
 I’d best kick off with a round up of the sponsorship progress.
 
 The most glorious of thanks goes out to **Grandad, Dad, The Wilkinsons (Paul,
@@ -23,11 +24,11 @@ If you’re in Lancaster and fancy winning money in the name of charity (and by
 all means do **keep** your winnings) I am trying to get an identical raffle
 started at a certain pub where what I once worked at. Rules are as follows.
 
-* Cash prize = 20% takings
-* £5 per ticket
-* Randomly allotted time slot
-* `if(myTime >= yourLowerTimeBraket && myTime <= yourUpperTimeBraket) Win(you)`
-* Ace
+- Cash prize = 20% takings
+- £5 per ticket
+- Randomly allotted time slot
+- `if(myTime >= yourLowerTimeBraket && myTime <= yourUpperTimeBraket) Win(you)`
+- Ace
 
 #Giggidy
 
@@ -113,6 +114,7 @@ impressive slack-tight-rope walker and uni-cycling-on-his-head, and a few other
 shows of incredible strength. So much entertainment for my eyes, and Jane’s.
 
 # The Other Bits
+
 Highgate Cemetery (very interesting, recommended), visiting the one and only Joe
 Lobley in his native village of Bethnal Green where we were shown around some of
 his lands highlights (including a working farm), The Niteflights gig (with

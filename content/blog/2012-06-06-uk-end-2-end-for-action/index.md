@@ -29,14 +29,14 @@ no longer active.
 
 # Quick Facts
 
-* Miles: 968
-* Riding Time: 70 Hours 8 Minutes 8 Seconds
-* Elapsed Time: 90 Hours 46 Minutes 22 Seconds
-* Max Speed: 38.6mph – *potentially 49.8...*
-* Average Speed: 13.8 mph
-* Calories Burned: 28390 – *likely to be wildly inaccurate*
-* Elevation: 43551ft – *likely to be wildly inaccurate*
-* *Seriously my legs do hurt*
+- Miles: 968
+- Riding Time: 70 Hours 8 Minutes 8 Seconds
+- Elapsed Time: 90 Hours 46 Minutes 22 Seconds
+- Max Speed: 38.6mph – _potentially 49.8..._
+- Average Speed: 13.8 mph
+- Calories Burned: 28390 – _likely to be wildly inaccurate_
+- Elevation: 43551ft – _likely to be wildly inaccurate_
+- _Seriously my legs do hurt_
 
 # Heading Out – Arriving Penzance
 
@@ -62,13 +62,13 @@ the first and – so they say – hardest day.
 
 [View on Strava](https://www.strava.com/activities/10165671)
 
-* Distance: 120.9 Miles
-* Riding Time: 10:20:11
-* Elapsed Time: 08:42:46
-* Max Speed: 38.6 mph (I think this is a malfunction)
-* Average Speed: 15.1 mph
-* Calories: 4209
-* Elevation: 7718 ft
+- Distance: 120.9 Miles
+- Riding Time: 10:20:11
+- Elapsed Time: 08:42:46
+- Max Speed: 38.6 mph (I think this is a malfunction)
+- Average Speed: 15.1 mph
+- Calories: 4209
+- Elevation: 7718 ft
 
 What an almighty day. First of all managed to sleep roughly not-at-all last
 night and with what little I got was interrupted at 5am. The video provides an
@@ -97,13 +97,13 @@ so much easier than riding alone and I hope to keep riding with them.
 
 [View on Strava](https://www.strava.com/activities/10165680)
 
-* Distance: 98.3 Miles
-* Riding Time: 06:33:59
-* Elapsed Time: 08:42:46
-* Max Speed: 49.8 mph (I think this is a malfunction)
-* Average Speed: 15.0 mph
-* Calories: 3090
-* Elevation: 4712 ft
+- Distance: 98.3 Miles
+- Riding Time: 06:33:59
+- Elapsed Time: 08:42:46
+- Max Speed: 49.8 mph (I think this is a malfunction)
+- Average Speed: 15.0 mph
+- Calories: 3090
+- Elevation: 4712 ft
 
 Lots to say on today.
 
@@ -136,13 +136,13 @@ are now being delayed by 30 minutes – not me… btw.
 
 [View on Strava](https://www.strava.com/activities/10165681)
 
-* Distance: 120.6 Miles
-* Riding Time: 08:25:09
-* Elapsed Time: 10:51:59
-* Max Speed: 37.7 mph
-* Average Speed: 14.3 mph
-* Calories: 3755
-* Elevation: 5681 ft
+- Distance: 120.6 Miles
+- Riding Time: 08:25:09
+- Elapsed Time: 10:51:59
+- Max Speed: 37.7 mph
+- Average Speed: 14.3 mph
+- Calories: 3755
+- Elevation: 5681 ft
 
 No diary entry – but how about a little
 something regarding all the food I ate. A typical day consisted of:
@@ -160,13 +160,13 @@ Calories: 2996 Elevation: 2968 ft No diary entry.
 
 [View on Strava](https://www.strava.com/activities/10165668)
 
-* Distance: 116.8 Miles
-* Riding Time: 08:52:07
-* Elapsed Time: 10:57:20
-* Max Speed: 35.0 mph
-* Average Speed: 13.2 mph
-* Calories: 3004
-* Elevation: 4360 ft
+- Distance: 116.8 Miles
+- Riding Time: 08:52:07
+- Elapsed Time: 10:57:20
+- Max Speed: 35.0 mph
+- Average Speed: 13.2 mph
+- Calories: 3004
+- Elevation: 4360 ft
 
 Yes two days are missing. Nothing from
 Nescliffe as the lights were out before I could write anything and nothing from
@@ -189,7 +189,7 @@ so got a good helping of sausages and chips to chow through.
 
 Today though! What a toughie. Cycling right over the top of shap – shapped – in
 constant rain and hail. Lunch stop couldn’t have come sooner. Was very cold and
-wet by that time and and feeling a bit f*%$d to be honest! Ian Tildesley was
+wet by that time and and feeling a bit f\*%\$d to be honest! Ian Tildesley was
 there waiting and could see I was somewhat distressed… Sorry you couldn’t have
 seen me at a better time Ian.
 
@@ -204,19 +204,18 @@ cold shower to make myself even happier so now to food and bed!
 
 [View on Strava](https://www.strava.com/activities/10165656)
 
-* Distance: 86.0 Miles
-* Riding Time: 06:41:57
-* Elapsed Time: 09:13:28
-* Max Speed: 31.6 mph
-* Average Speed: 12.8 mph
-* Calories: 2300
-* Elevation: 3864 ft
+- Distance: 86.0 Miles
+- Riding Time: 06:41:57
+- Elapsed Time: 09:13:28
+- Max Speed: 31.6 mph
+- Average Speed: 12.8 mph
+- Calories: 2300
+- Elevation: 3864 ft
 
-
-5.30 am start again this morning, and
-rather foolishly didn’t manage to organise anything the night before. Took me an
-hour to reach breakfast after organising my kit, getting dry clothes and putting
-down the tent. Standard breakfast FPB – Full English, Porridge & Banana.
+  5.30 am start again this morning, and
+  rather foolishly didn’t manage to organise anything the night before. Took me an
+  hour to reach breakfast after organising my kit, getting dry clothes and putting
+  down the tent. Standard breakfast FPB – Full English, Porridge & Banana.
 
 Set off 7am, the first 30 was just flattish bumpy bumpy bumpy roads alongside
 the motorway. Hardly picturesque. Nice descent to end this part which came out
@@ -224,7 +223,7 @@ of the clouds. Then onwards to just south of Glasgow where we were treated to a
 bag pipe reception – and had the pleasure of hearing it again for each
 subsequent arrival. Glasgow itself was as to be expected, traffic lights,
 roundabouts and busy bumpy roads. Once we broke through though, it’s going to be
-countryside for the rest of the trip.  As today was only 86 miles with two rest
+countryside for the rest of the trip. As today was only 86 miles with two rest
 stops – AM and lunch – most of decided an impromptu rest at a pub just before
 camp was in order. Basking in the sun with a cold pint 78 or so miles down the
 road can hardly be sniffed at. Every rider who passed couldn’t back down from
@@ -241,13 +240,13 @@ massage – which I definitely need.Glen Coe tomorrow, and just 100 miles – ea
 
 [View on Strava](https://www.strava.com/activities/10165665)
 
-* Distance: 96.6 Miles
-* Riding Time: 07:03:08
-* Elapsed Time: 09:56:46
-* Max Speed: 35.3 mph
-* Average Speed: 13.6 mph
-* Calories: 3201
-* Elevation: 4988 ft
+- Distance: 96.6 Miles
+- Riding Time: 07:03:08
+- Elapsed Time: 09:56:46
+- Max Speed: 35.3 mph
+- Average Speed: 13.6 mph
+- Calories: 3201
+- Elevation: 4988 ft
 
 Glen Coe, hold on let me write that
 again. GLEN COE! What a ride/thrill! The most exhilarating cycling I have ever
@@ -260,7 +259,7 @@ at the bottom, all of us were elated to say the least.
 
 So to be honest I can’t remember anything else about today. It was very early to
 start off with, and I was nervous about the state of my left leg. But after a
-few hours it warmed up and got going again just as usual.  Sitting now in the
+few hours it warmed up and got going again just as usual. Sitting now in the
 Ben Nevis hotel, looking at part of Ben Nevis incidentally and watching Lord of
 the Rings on TV – our challenge is far greater. At dinner we all had a bit of a
 whinge about the portion sizes, but to be honest they were just normal.
@@ -272,13 +271,13 @@ just carry on.
 
 [View on Strava](https://www.strava.com/activities/10165672)
 
-* Distance: 115.5 Miles
-* Riding Time: 08:57:03
-* Elapsed Time: 11:26:34
-* Max Speed: 38.0 mph
-* Average Speed: 12.9 mph
-* Calories: 3368
-* Elevation: 5595 ft
+- Distance: 115.5 Miles
+- Riding Time: 08:57:03
+- Elapsed Time: 11:26:34
+- Max Speed: 38.0 mph
+- Average Speed: 12.9 mph
+- Calories: 3368
+- Elevation: 5595 ft
 
 Today was tough. Many milestones, and many
 mile stones to overcome. The first 50 miles followed two Lochs, the second of
@@ -308,13 +307,13 @@ hills, I am very sure I could just carry on riding.
 
 [View on Strava](https://www.strava.com/activities/10165657)
 
-* Distance: 94.9 Miles
-* Riding Time: 07:19:08
-* Elapsed Time: 08:46:58
-* Max Speed: 32.4 mph
-* Average Speed: 13.0 mph
-* Calories: 2467
-* Elevation: 3665
+- Distance: 94.9 Miles
+- Riding Time: 07:19:08
+- Elapsed Time: 08:46:58
+- Max Speed: 32.4 mph
+- Average Speed: 13.0 mph
+- Calories: 2467
+- Elevation: 3665
 
 I was too busy yesterday to get anything
 written down. It was all a bit finish then boom, boom, boom – photo, coach,
@@ -324,7 +323,7 @@ thing. Was nice to go through it with someone who wasn’t there doing it too.
 
 But here is the photographic evidence, I was there and with my bike. I am happy
 to say I pedalled every mile, and my body doesn’t feel to bad, apart from when I
-move!  Right now I can’t quite make much sense of how it feels to finish, I
+move! Right now I can’t quite make much sense of how it feels to finish, I
 almost feel like haven’t finished anything, more just starting something.
 
 Home At home I was greeted by cake and my beautiful Jane
@@ -339,8 +338,8 @@ waiting for compensation – and of course helping me select my new bike.
 Also to thanks to Micky, Tim, Mike, Graeme and Jo for riding with me – we
 undoubtedly helped each other.
 
-* Leave me a comment below
-* Follow me on Strava
-* Check out my photographs
-* Register your interest for next year
-* SPONSOR ME!
+- Leave me a comment below
+- Follow me on Strava
+- Check out my photographs
+- Register your interest for next year
+- SPONSOR ME!

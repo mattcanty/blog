@@ -75,5 +75,5 @@ http://westcliffhotel.net/ – ignore the picture.
 
 Almost forgot! Don’t forget to check out both rides on Strava:
 
-* [Seascale to Whitby](https://www.strava.com/activities/64084750)
-* [Whitby to ~~Seascale~~ Kendal](https://www.strava.com/activities/64084703)
+- [Seascale to Whitby](https://www.strava.com/activities/64084750)
+- [Whitby to ~~Seascale~~ Kendal](https://www.strava.com/activities/64084703)

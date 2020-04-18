@@ -10,20 +10,20 @@ Here
 
 # Quick Facts
 
-* 3 x road-kill – Badger, Deer and Peacock!
-* Rode for a while with two chaps – Martin and Simon if you’re out there – who,
-just before I arrived were talking about how MENTAL you’d have to be to do the
-Lands End 2 John O’Groats ride…
-* Ate a lot of brie.
-* The morning was terry-frickingly cold, literally chattering on the starting
-line.
-* Total time, 8 hours 19 minutes / Actual riding time 7 hours 30 minutes.
-* Got lost once, resulting in a 6 mile extra which at the time was not really
-what I wanted.
-* Lots of fields out there.
-* My knees now hurt, doctors tomorrow, need my bike fitting checking, no riding
-for at least a week! Got to recover before building up some steam for the Le2Jog
-challenge.
+- 3 x road-kill – Badger, Deer and Peacock!
+- Rode for a while with two chaps – Martin and Simon if you’re out there – who,
+  just before I arrived were talking about how MENTAL you’d have to be to do the
+  Lands End 2 John O’Groats ride…
+- Ate a lot of brie.
+- The morning was terry-frickingly cold, literally chattering on the starting
+  line.
+- Total time, 8 hours 19 minutes / Actual riding time 7 hours 30 minutes.
+- Got lost once, resulting in a 6 mile extra which at the time was not really
+  what I wanted.
+- Lots of fields out there.
+- My knees now hurt, doctors tomorrow, need my bike fitting checking, no riding
+  for at least a week! Got to recover before building up some steam for the Le2Jog
+  challenge.
 
 So there it is, there isn’t a terrible lot to say unless I was to go into detail
 about each crank of the crank – but that would get tedious. Basically just rode
@@ -33,7 +33,7 @@ for the biggie.
 
 Here are some high calibre links!
 
-* ~~Come to the gig…~~
-* ~~Follow the Facebook…~~
-* ~~Sponsor the man!~~
-* [Can can?](http://www.youtube.com/watch?v=4Diu2N8TGKA)
+- ~~Come to the gig…~~
+- ~~Follow the Facebook…~~
+- ~~Sponsor the man!~~
+- [Can can?](http://www.youtube.com/watch?v=4Diu2N8TGKA)

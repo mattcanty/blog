@@ -19,6 +19,7 @@ If you just want to
 [DO IT NOW THEN CLICK THIS WRITING RIGHT HERE](http://www.action.org.uk/sponsor/matthewcanty).
 
 # My Cycling Progress
+
 Bike, Clothes, Gym/Yoga, Rides, Pre big-ride big rides.
 
 Obviously a few things have had to change in order for me to be ready to do this.
@@ -26,6 +27,7 @@ However my training is starting to be something which I just enjoy doing anyway,
 and I do what I can at the most unsociable of hours. Before that, equipment...
 
 ## Bike
+
 There are some essential pieces of equipment required for a challenge such as
 this, the first of which is **a bike**. A bike is a two wheeled transportation
 device with a metal bit in the middle and some bars which you hold, and a bit
@@ -48,6 +50,7 @@ thing, allowing me (and you) to see my exact turns, speeds, climbs and lunch
 breaks.
 
 ## Clothes
+
 I have also had to buy a new wardrobe which comes at some kind of cost, but more
 damagingly, my appearance and street credibility – but it doesn’t arf work! So
 that is cycling shorts (yep those ones cyclists wear), cycling jacket
@@ -57,6 +60,7 @@ is literally suicide in London). And I think I’ll be needed some !winter glove
 the big day.
 
 ## Gym/Yoga
+
 The gym. Its a bit of a step for me this one. Never really thought I’d ever join
 one, but needs must. I go to one of a chain called Pure Gym at their Kennington
 gym. Its a good deal actually, and no contract which I like. If you want to join
@@ -74,6 +78,7 @@ I could get from sitting at work all day – work is good by the way thanks. Plu
 I can stand on me ‘ead which is always fun.
 
 ## Rides
+
 Actually being out on the bike is considered the most important part of training
 for all the obvious reasons. I have been out to Richmond Park four times so far,
 once before Christmas, riding (in order) 27, 42, 53 and 54 miles. I must note
@@ -95,6 +100,7 @@ completely exhausted me. I have some back to back weekend rides pencilled in and
 some other things which are…
 
 ## Pre big-ride big rides
+
 Yes, MORE big rides are very soon to be booked. I have found out that as I am
 enrolled on the Lands’ End to John O’Groats I can get a discount on entering
 other UK rides and do not need to raise the extra sponsorship for the individual
@@ -104,15 +110,17 @@ gaining a psychological understanding of the distances involved. More on that in
 my next post.
 
 ## Bye
+
 I hope you enjoyed reading what I have written for you. Please visit the links
 below. Finally, here is a picture of a numpty.
 
 PICTURE OF A NUMPTY
 
-##  Links
-* Sponsor Me: http://www.action.org.uk/sponsor/matthewcanty
-* Facebook Page: http://www.facebook.com/pages/Matt-Cantys-End-2-End-Cycling-Challenge/108835625903281
-* My Training Log: https://docs.google.com/spreadsheet/ccc?key=0Av1hLWzCIl1PdHBlX1YtMXlxbVl3TEU1Rk9VdXh5Q0E
-* Action Medical Research: http://www.action.org.uk/
-* End 2 End: http://www.ukend2end.com/
-* My Email: hello@mattcanty.com
+## Links
+
+- Sponsor Me: http://www.action.org.uk/sponsor/matthewcanty
+- Facebook Page: http://www.facebook.com/pages/Matt-Cantys-End-2-End-Cycling-Challenge/108835625903281
+- My Training Log: https://docs.google.com/spreadsheet/ccc?key=0Av1hLWzCIl1PdHBlX1YtMXlxbVl3TEU1Rk9VdXh5Q0E
+- Action Medical Research: http://www.action.org.uk/
+- End 2 End: http://www.ukend2end.com/
+- My Email: hello@mattcanty.com

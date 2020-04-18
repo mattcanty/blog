@@ -55,7 +55,8 @@ const Bio = () => {
         }}
       />
       <p>
-        I am <strong>{author}</strong> and live in London. An aspiring rock star and on the side I do some programming.
+        I am <strong>{author}</strong> and live in London. An aspiring rock star
+        and on the side I do some programming.
         {` `}
         <a href={`https://instagram.com/${social.instagram}`}>
           Follow me on Instagram

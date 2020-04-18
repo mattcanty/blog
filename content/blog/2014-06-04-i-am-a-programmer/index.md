@@ -22,7 +22,7 @@ Here is some code which is about as basic as you can get, with some user input.
 
 ```
 public class Hello
-{	 	
+{
     public static void Main(string[] args)
     {
         if (args.Length > 0)
@@ -44,13 +44,13 @@ fact our entire program!
 
 Next comes the method `Main`. This is the entry point of this program. It’s the
 first thing which happens. All that is going on here, is we are saying to the
-computer: *“I want you to start here, with these arguments.”* Think of arguments
+computer: _“I want you to start here, with these arguments.”_ Think of arguments
 as settings. Changing any arguments will change how the program behaves, without
 changing the code itself.
 
 Now onto your first logical operation! Thanks for coming so far, I’m sure you’re
 really enjoying this. Here is an `if … else` statement. Inside the `if`
-statement is our test: *“if there are more than 0 arguments then do this”*. The
+statement is our test: _“if there are more than 0 arguments then do this”_. The
 `else` block **captures** anything which does not pass this test.
 
 Our program outputs a message using `System.Console.Writeline`. Now you’ll need
@@ -58,8 +58,8 @@ to imagine some white text appearing in a black box. If you don’t know what I
 mean then go to Start > Run > Type `“cmd”` > Hit Enter. This is Command Prompt!
 
 So I hope you can see what our program does now… If you were to run our program
-with the argument *“Jane”*, it would spit out *“Hello, Jane!”*. And if no
-arguments were specified then the program would say *“Hello, World!”*. How neat
+with the argument _“Jane”_, it would spit out _“Hello, Jane!”_. And if no
+arguments were specified then the program would say _“Hello, World!”_. How neat
 is that!
 
 # How Neat Is That?
@@ -105,11 +105,11 @@ rivals, there are all sorts of reasons to choose various languages.
 
 Here are some you might have heard of:
 
-* C
-* C#
-* Java
-* Javascript
-* NodeJS – okay probably not this one…
+- C
+- C#
+- Java
+- Javascript
+- NodeJS – okay probably not this one…
 
 # Lets See If I Can Wrap This Up
 
