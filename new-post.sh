@@ -1,16 +1,21 @@
 #!/bin/sh
 
-parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
+# I want to run script from script root, not my root.
+root=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 
 read -p "Enter Name of Post: "  name
 
-kebab_name=$(echo $name | tr '[:upper:]' '[:lower:]' | sed "s/ /-/g" | sed "s/[^a-z0-9-]//g")
+kebab_name=$(echo $name | \
+  tr '[:upper:]' '[:lower:]' | \ # To Lower Case
+  sed "s/ /-/g" | \              # Replace whitespace with dash
+  sed "s/[^a-z0-9-]//g")         # Remove non-alphanumeric
 
-post_path="$parent_path/content/blog/$(date +"%Y-%m-%d")-$kebab_name"
+post_dir="$root/content/blog/$(date +"%Y-%m-%d")-$kebab_name"
 
-mkdir "$post_path"
+mkdir "$post_dir"
+post_path="$post_dir/index.md"
 
-cat > "$post_path/index.md" << EOL
+cat > $post_path << EOL
 ---
 title: $name
 date: "$(date +"%Y-%m-%dT%H:%M:00.000Z")"
@@ -18,3 +23,5 @@ description: $name
 ---
 
 EOL
+
+echo $post_path
