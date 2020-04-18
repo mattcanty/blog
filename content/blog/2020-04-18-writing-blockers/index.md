@@ -28,7 +28,8 @@ I will write about these in the order that they are addressed.
 I have often found there something sticky about writing a blog. Why is it dated
 and what if I wish to change my opinion on something.
 
-I've been inspired by [_My blog is a digial garden, not a blog (Joel Hooks)_](https://joelhooks.com/digital-garden) who was in turn inspired by [Building a Digital Garden (Tom Critchlow)](https://tomcritchlow.com/2019/02/17/building-digital-garden/).
+I've been inspired by [_My blog is a digial garden, not a blog (Joel Hooks)_](1)
+who was in turn inspired by [Building a Digital Garden (Tom Critchlow)](2).
 
 What these 2 demonstrate is that there is another way to organise your thoughts.
 
@@ -47,10 +48,16 @@ programming.
 I don't make it easy for myself...
 
 I write everything as _plain text_, if you are not sure what that looks like
-then take a quick look at this posts [raw content on GitHub](https://raw.githubusercontent.com/mattcanty/blog/master/content/blog/2020-04-18-writing-blockers/index.md)! You see what I mean?
+then take a quick look at this posts [raw content on GitHub](3)! You see what I
+mean?
 
 There is also a bit of house keeping in order to start a new post, not just a
 simple click of a button. Therefore I have written a quick script which quickly
 creates a template for now posts.
 
-[Check it out!](https://github.com/mattcanty/blog/blob/master/new-post.sh)
+[Check it out!](4)
+
+[1]: https://joelhooks.com/digital-garden
+[2]: https://tomcritchlow.com/2019/02/17/building-digital-garden/
+[3]: https://raw.githubusercontent.com/mattcanty/blog/master/content/blog/2020-04-18-writing-blockers/index.md
+[4]: https://github.com/mattcanty/blog/blob/master/new-post.sh
