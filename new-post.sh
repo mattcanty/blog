@@ -1,14 +1,13 @@
 #!/bin/sh
 
-# I want to run script from script root, not my root.
 root=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 
 read -p "Enter Name of Post: "  name
 
 kebab_name=$(echo $name | \
-  tr '[:upper:]' '[:lower:]' | \ # To Lower Case
-  sed "s/ /-/g" | \              # Replace whitespace with dash
-  sed "s/[^a-z0-9-]//g")         # Remove non-alphanumeric
+  tr '[:upper:]' '[:lower:]' | \
+  sed "s/ /-/g" | \
+  sed "s/[^a-z0-9-]//g")
 
 post_dir="$root/content/blog/$(date +"%Y-%m-%d")-$kebab_name"
 
