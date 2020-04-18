@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Matt Canty's Blog`,
+    title: `Matt Canty's Writing Place`,
     author: `Matt Canty`,
     description: `My personal blog. Covering music, cycling and programming.`,
     siteUrl: `https://blog.mattcanty.com/`,
