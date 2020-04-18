@@ -28,10 +28,10 @@ I will write about these in the order that they are addressed.
 I have often found there something sticky about writing a blog. Why is it dated
 and what if I wish to change my opinion on something.
 
-I've been inspired by [_My blog is a digial garden, not a blog (Joel Hooks)_](1)
-who was in turn inspired by [Building a Digital Garden (Tom Critchlow)](2).
+I've been inspired by [_My blog is a digial garden, not a blog (Joel Hooks)_][1]
+who was in turn inspired by [B*uilding a digital garden (Tom Critchlow*)][2].
 
-What these 2 demonstrate is that there is another way to organise your thoughts.
+What these 2 demonstrate is that there is another way to organise thoughts.
 
 Date is arbitrary in a way. I'm happy to write about something one day, but I
 expect to eventually change my mind, and want to be free to update the
@@ -48,14 +48,18 @@ programming.
 I don't make it easy for myself...
 
 I write everything as _plain text_, if you are not sure what that looks like
-then take a quick look at this posts [raw content on GitHub](3)! You see what I
+then take a quick look at this posts [raw content on GitHub][3]! You see what I
 mean?
 
 There is also a bit of house keeping in order to start a new post, not just a
-simple click of a button. Therefore I have written a quick script which quickly
-creates a template for now posts.
+simple click of a button. Therefore I have written a script which quicklycreates
+a template for now posts - [check it out][4]!
 
-[Check it out!](4)
+## What I Say Isn't Important to Anyone
+
+All that matters from now in is whether I am interested in what I am writing.
+
+**More to come.**
 
 [1]: https://joelhooks.com/digital-garden
 [2]: https://tomcritchlow.com/2019/02/17/building-digital-garden/
