@@ -55,8 +55,8 @@ const Bio = () => {
         }}
       />
       <p>
-        I am <strong>{author}</strong> and live in London. An aspiring rock star
-        and on the side I do some programming.
+        I am <strong>{author}</strong>, an engineer of varying titles who helps
+        tech companies run reliable and fault-tolerant software platforms.
         {` `}
         <a href={`https://instagram.com/${social.instagram}`}>
           Follow me on Instagram
