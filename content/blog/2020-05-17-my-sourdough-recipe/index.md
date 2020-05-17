@@ -39,6 +39,10 @@ Shape, overnight-rest, bake
 11. Remove the lid and bake for another 15 minutes
 12. Cool and ENJOY
 
-See how I'm getting on week-by-week on my [Google Photos album][1].
+## What ya also might like
+
+- See how I'm getting on week-by-week on my [Google Photos album][1].
+- Original recipe (apart from baking part):
+  `youtube: 2FVfJTGpXnU`
 
 [1]: https://photos.google.com/share/AF1QipOLSs6recWP7z6qhE982HafCvWoNqXw4XMCNRVSc6I7sjjngytwODTuAKvB6JnQ3g?key=d3lsM0tqUkxYbHhaTVFNNTBXWGZHVHl5Q0ZqWEV3
