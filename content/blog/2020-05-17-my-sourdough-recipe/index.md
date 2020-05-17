@@ -7,6 +7,7 @@ description: My sourdough recipe inspired by an Irish baker and Ann Dever
 ## TL;DR; Summary
 
 Mix, knead, prove
+
 Shape, overnight-rest, bake
 
 ## What ya need
