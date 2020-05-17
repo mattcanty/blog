@@ -2,6 +2,6 @@
 
 ## Write a new post with
 
-```
+```shell
 make
 ```
