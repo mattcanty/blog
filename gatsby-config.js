@@ -5,7 +5,6 @@ module.exports = {
     description: `My personal blog. Covering music, cycling and programming.`,
     siteUrl: `https://blog.mattcanty.com/`,
     social: {
-      instagram: `cat_manty`,
       linkedin: `matthewcanty`,
     },
   },

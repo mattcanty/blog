@@ -25,7 +25,6 @@ const Bio = () => {
         siteMetadata {
           author
           social {
-            instagram
             linkedin
           }
         }
@@ -58,15 +57,7 @@ const Bio = () => {
         I am <strong>{author}</strong>, an engineer of varying titles who helps
         tech companies run reliable and fault-tolerant software platforms.
         {` `}
-        <a href={`https://instagram.com/${social.instagram}`}>
-          Follow me on Instagram
-        </a>
-        {` `}
-        or
-        {` `}
-        <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
-          work with me via LinkedIn.
-        </a>
+        Just send me an email: matthewcanty@gmail.com.
       </p>
     </div>
   )
