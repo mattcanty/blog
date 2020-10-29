@@ -4,8 +4,10 @@ date: "2020-10-29T18:30:00.000Z"
 description: I'm going to use my Raspberry PI for anything which doesn't need the oompf
 ---
 
-A friend of mine is really into security and privacy. It is kinda great considering
-they don't have a career in tech. It's impressive stuff.
+A friend of mine is really into using their Pi for personal computing. They're also really
+into privacy and security. It is kinda great considering their career isn't technical.
+It's impressive stuff and makes a nice change to hear someone be genuinely concerned about
+passwords.
 
 They use a Pi so why can't _i_?
 
@@ -15,7 +17,7 @@ which is a terminal-only version of Raspberry Pi's Linux variety.
 Despite all the great benefits of a terminal, I think a GUI will be needed if I intend
 to do things like visit websites and write code.
 
-I've just noticed my hand is going a little numb due to the position of my arm against the desk.
+_Side note: I've just noticed my hand is going a little numb due to the position of my arm against the desk._
 
 ## From Lite to GUI Raspian
 
@@ -48,7 +50,7 @@ It's important to get the basics set up quickly on a new machine. For me this is
 I have bitten the bullet. After many years of wondering what it would be like. I have finally gone
 in and done that thing and gone with CLI-only for 1Password.
 
-Until I'd put about 3000 commands through the thing to be honest I wondered if I had totally missed
+Until I'd put about 3000 commands through the thing I wondered if I had totally missed
 the point. Basic use cases are hard to achieve first time around. I'll try and summarise those important ones now,
 for me in the future.
 
@@ -105,7 +107,7 @@ op list items --vault Personal | jq '.[] | select(.overview.title | contains("Gi
   }
 }
 
-op get item "Github" --vault Personal | jq -r '.details.fields[] | select(.name == "password") | .value'
+op get item 123123123123123123123123 --vault Personal | jq -r '.details.fields[] | select(.name == "password") | .value'
 ```
 
 Ask me about adding or editing items. I haven't got the muster to write about it now.
@@ -115,7 +117,7 @@ Also if you get this far, you can probably manage... **hint** `op create item Lo
 
 I've found one thing particularly annoying compared to Mac.
 
-On a Mac there is the hand `cmd` button. With this button I can do copy & paste commands in the terminal.
+On a Mac there is the handy `cmd` button. With this button I can do copy & paste commands in the terminal.
 Perhaps someone can tell me how to do this on Raspian. I've always also liked `pbcopy` which is useful
 for seamlessly sending piped output to the clipboard on Mac.
 
