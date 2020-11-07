@@ -4,8 +4,11 @@ date: "2020-11-07T15:10:00.000Z"
 description: Handy 1Password CLI Wrapper Functions
 ---
 
-I made these functions just now. Add them to your bash profile to make standard functionality
-of 1Password's CLI easier to manage. If login is required then it asks for your password and retries.
+I quickly got bored of having to execute the login command each time I wanted a password from
+1Password CLI. These functions check for the _not logged in_ error and ask for your password
+there and then.
+
+Also the functions wrap up getting the password and copying it to the clipboard.
 
 You will need:
 
