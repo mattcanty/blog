@@ -14,7 +14,7 @@ You will need:
 
 * [1Password CLI](https://support.1password.com/command-line-getting-started/)
 * [xclip](https://github.com/astrand/xclip) eg `apt-get install xclip`
-* [jq](https://github.com/stedolan/jq) eg `apt-get install xclip`
+* [jq](https://github.com/stedolan/jq) eg `apt-get install jq`
 
 The following will cover 99% of my requirements from 1Password (provided I know the _exact_ name of the password item).
 
