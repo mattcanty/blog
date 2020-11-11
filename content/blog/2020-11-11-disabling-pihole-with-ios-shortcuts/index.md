@@ -29,8 +29,8 @@ So here goes:
 4. This will add the action, but you need to configure it. Tap **Show More**. You will need to enter:
    1. Host - This is the IP address or hostname on your network where pihole is running
    2. Port - Usually `22`
-   3. User - If you're using Raspberry Pi, you probably want to enter `pi`\*
-   4. Password - If you're using Raspberry Pi, you probably want to enter `raspberry`\*
+   3. User - If you're using Raspberry Pi, you probably want to enter `pi` (Professionals see end of page)
+   4. Password - If you're using Raspberry Pi, you probably want to enter `raspberry` (Professionals see end of page)
    5. Script - type `pihole disable 30s`
 
 That is it.
@@ -41,5 +41,17 @@ I have also set up the shortcuts widget so that I can easily access the function
 from my home screen.
 
 ![Widget screen on iPhone showing the Pause Pihole function](https://lh3.googleusercontent.com/8duBfn-9k6Mm5CfoSjMkDnivhrPgcef9shKZkEBunqduWKilE9_MAXTpPhHlrt-7FYeNqk-LGsApELV5tzkco43-qq75KIVteXwCahMNlWC1avW4Cx77zgdpXEWQwD8aMHIK__cz1_0=w400 "iPhone widgets screen")
+
+## End of Page
+
+If you are a pro. Then you are going to want to do a bit more than use the default
+username and password for your Raspberry Pi.
+
+My advice would be to:
+
+1. Use SSH (yes the app supports SSH Key as well - I still need to do this)
+2. Create a 2nd user, which does not have root access to your device. In essence the `pi` user is allowed to do _anything_ on your Pi. So you are leaving yourself a little vulnerable...
+
+You have been warned.
 
 I hope you find this useful :-)
