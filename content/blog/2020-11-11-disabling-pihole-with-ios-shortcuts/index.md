@@ -35,4 +35,11 @@ So here goes:
 
 That is it.
 
-![Pause Pihole shortcut settings showing host port user password and script](https://lh3.googleusercontent.com/RdwUW8n6x5M3aCbBks6BkSXFXwtOs2wD8GylPjKJSbu9lWgPaAOAfEoUOsIkuIp1uzBPCWA8cpc3zPiDQWqf6wjm5e7aFW7edKgmHYTDiBtg4m_eryMDTPNczLQ4n4kHxyasrhePuus=w2400 "iPhone Screenshot of shortcut settings")
+![Pause Pihole shortcut settings showing host port user password and script](https://lh3.googleusercontent.com/RdwUW8n6x5M3aCbBks6BkSXFXwtOs2wD8GylPjKJSbu9lWgPaAOAfEoUOsIkuIp1uzBPCWA8cpc3zPiDQWqf6wjm5e7aFW7edKgmHYTDiBtg4m_eryMDTPNczLQ4n4kHxyasrhePuus=w400 "iPhone Screenshot of shortcut settings")
+
+I have also set up the shortcuts widget so that I can easily access the functionality
+from my home screen.
+
+![Widget screen on iPhone showing the Pause Pihole function](https://lh3.googleusercontent.com/8duBfn-9k6Mm5CfoSjMkDnivhrPgcef9shKZkEBunqduWKilE9_MAXTpPhHlrt-7FYeNqk-LGsApELV5tzkco43-qq75KIVteXwCahMNlWC1avW4Cx77zgdpXEWQwD8aMHIK__cz1_0=w400 "iPhone widgets screen")
+
+I hope you find this useful :-)
