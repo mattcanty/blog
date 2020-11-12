@@ -19,8 +19,8 @@ One thing has proven itself twice now:
 
 > Getting up early and at the same time _every day_.
 
-I raise at **7am** whether or not I need to. I do it if I have no plans. I'll
-just sit upstairs with no idea and wait for the mood to take me.
+All I need to do it raise at **7am**. I do it if I have no plans. I'll sit
+in the living room, waiting for the mood to take me.
 
 ## A Morning Raising at 7
 
