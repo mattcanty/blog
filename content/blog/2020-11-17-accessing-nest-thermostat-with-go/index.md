@@ -36,8 +36,9 @@ and then **EDIT APP**.
   Management API** scopes.
 - Page 3 & 4: Continue until complete
 
-After finishing the form, make sure to capture the client secret. You will need
-this in your code and it cannot be retrieved later.
+After finishing the form, click on the new client to edit it again. This time
+there is a page with the client ID and client secret. At this point you should
+also add `localhost:8080` to the Authorised Redirect URLs.
 
 ### Create Nest Project
 
