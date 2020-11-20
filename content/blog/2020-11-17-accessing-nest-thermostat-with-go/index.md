@@ -185,4 +185,4 @@ Cheers BYYYYYEEEEEEE
 [2]: https://developers.google.com/nest/device-access
 [3]: https://console.nest.google.com/device-access/project-list
 [4]: https://console.developers.google.com/projectselector2/apis/library/smartdevicemanagement.googleapis.com
-[5]: (https://gist.github.com/hyg/9c4afcd91fe24316cbf0#file-gistfile1-txt)
+[5]: https://gist.github.com/hyg/9c4afcd91fe24316cbf0#file-gistfile1-txt
