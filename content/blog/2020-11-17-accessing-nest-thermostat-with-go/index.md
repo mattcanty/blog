@@ -4,6 +4,9 @@ date: "2020-11-17T08:13:00.000Z"
 description: Accessing Nest Thermostat with Go
 ---
 
+!["a Nest thermostat"](./dan-lefebvre-RFAHj4tI37Y-unsplash.jpg)
+<sup>_Photo by [Dan LeFebvre][6] on [Unsplash][7]_</sup>
+
 I found accessing the data from my Nest Thermostat a little over-complicated.
 There were many pages of documentation required to get things going. Also the
 examples provided on the official SDK does a lot to obfuscate the important
@@ -178,6 +181,20 @@ suggestions or corrections. Happy to receive.
 My application still has a bit of work to do. I am looking forward to keeping a
 personal copy of all my thermostat data.
 
+I found the following pages useful in this endeavour, you may as well:
+
+- [My StackOverflow question where I figure out my auth URL is wrong][8]
+- [The Smart Device Management dashboard][9]
+- [Golang OAuth2 documentation][10]
+- [OAuth 2 sample code][11]
+- ["Getting Started" guide to Google API Go Client][12]
+- [Google OAuth 2.0 access documentation][13]
+- [Google OAuth 2.0 client examples][14]
+- [Creating a web server with Golang][15]
+- [Smart Device Management docs][16]
+- [Partner Connections Manager][17]
+- [Guide on Reddit to on Nest Hello Doorbell integration][18]
+
 Cheers BYYYYYEEEEEEE
 
 [0]: https://console.developers.google.com/
@@ -186,3 +203,16 @@ Cheers BYYYYYEEEEEEE
 [3]: https://console.nest.google.com/device-access/project-list
 [4]: https://console.developers.google.com/projectselector2/apis/library/smartdevicemanagement.googleapis.com
 [5]: https://gist.github.com/hyg/9c4afcd91fe24316cbf0#file-gistfile1-txt
+[6]: https://unsplash.com/@danlefeb
+[7]: https://unsplash.com/s/photos/thermostat
+[8]: https://stackoverflow.com/questions/64848100/list-devices-and-structures-empty
+[9]: https://console.developers.google.com/apis/api/smartdevicemanagement.googleapis.com/overview
+[10]: https://godoc.org/golang.org/x/oauth2#example-Config
+[11]: https://github.com/googleapis/google-api-go-client/blob/0409c50cb9e1464f5d66cd22dfc03ef76294cf0c/examples/main.go#L135
+[12]: https://github.com/googleapis/google-api-go-client/blob/master/GettingStarted.md
+[13]: https://developers.google.com/identity/protocols/oauth2?csw=1
+[14]: https://cloud.google.com/docs/authentication#oauth-2.0-clients
+[15]: https://blog.logrocket.com/creating-a-web-server-with-golang/
+[16]: https://pkg.go.dev/google.golang.org/api@v0.35.0/smartdevicemanagement/v1#EnterprisesDevicesService.List
+[17]: https://nestservices.google.com/partnerconnections
+[18]: https://old.reddit.com/r/homeassistant/comments/j17c7o/guide_nest_hello_doorbell_integration_via_nodered/
