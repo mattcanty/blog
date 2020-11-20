@@ -24,15 +24,12 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-          social {
-            linkedin
-          }
         }
       }
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author } = data.site.siteMetadata
   return (
     <div
       style={{
@@ -59,7 +56,12 @@ const Bio = () => {
         {` `}
         Just send me an email: matthewcanty@gmail.com.
         <br />
-        This blog is also available as <a href="https://blog.mattcanty.com/rss.xml" target="_">an RSS feed</a>.
+        <br />
+        This blog is also available as{" "}
+        <a href="https://blog.mattcanty.com/rss.xml" target="_">
+          an RSS feed
+        </a>
+        .
       </p>
     </div>
   )

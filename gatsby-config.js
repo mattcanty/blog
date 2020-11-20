@@ -4,9 +4,6 @@ module.exports = {
     author: `Matt Canty`,
     description: `My personal blog. Covering music, cycling and programming.`,
     siteUrl: `https://blog.mattcanty.com/`,
-    social: {
-      linkedin: `matthewcanty`,
-    },
   },
   plugins: [
     {
