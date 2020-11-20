@@ -139,11 +139,8 @@ that should work...
 
 ```golang
 ctx := context.Background()
-
 token := authenticate(ctx, conf)
-
 httpClient := config.Client(ctx, token)
-
 sdmService, err := smartdevicemanagement.NewService(ctx, option.WithHTTPClient(httpClient))
 ```
 
