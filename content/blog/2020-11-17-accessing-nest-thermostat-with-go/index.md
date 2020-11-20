@@ -59,7 +59,7 @@ fill them out like so:
 
 First of all set up the OAuth config.
 
-```golang
+```go
 conf := &oauth2.Config{
     ClientID:     clientId,
     ClientSecret: clientSecret,
@@ -83,7 +83,7 @@ Next you need a token.
 This code will get you a token to use in the HTTP client that will be
 passed into the Smart Device Management service constructor.
 
-```golang
+```go
 func authenticate(ctx context.Context, config *oauth2.Config) *oauth2.Token {
     log.Print("Your browser will be opened to authenticate with Google")
     log.Print("Hit enter to confirm and continue")
@@ -137,7 +137,7 @@ The service will be used to retrieve data from Google's Nest APIs.
 Here the code snippets above will be put together into something
 that should work...
 
-```golang
+```go
 ctx := context.Background()
 token := authenticate(ctx, conf)
 httpClient := config.Client(ctx, token)
@@ -146,7 +146,7 @@ sdmService, err := smartdevicemanagement.NewService(ctx, option.WithHTTPClient(h
 
 #### Time to GET Data
 
-```golang
+```go
 devicesListResponse, err := sdmService.Enterprises.Devices.List(fmt.Sprintf("enterprises/%s", projectID)).Do()
 if err != nil {
     log.Fatal(err)

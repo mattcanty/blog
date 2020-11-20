@@ -1,7 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
-
+import { defineCustomElements as deckDeckGoHighlightElement } from "@deckdeckgo/highlight-code/dist/loader"
 import { rhythm, scale } from "../utils/typography"
+
+deckDeckGoHighlightElement()
 
 class Layout extends React.Component {
   render() {
