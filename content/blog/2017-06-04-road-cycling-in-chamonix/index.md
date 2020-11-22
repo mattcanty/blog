@@ -14,7 +14,7 @@ I was riding with friends I made cycling around the hills south of London — Da
 - **Day 4 Col des Aravis e Col de La Colombière** [Strava](https://www.strava.com/activities/1016180749) / [Video](https://www.relive.cc/view/1016180749) / [GPX](https://www.strava.com/activities/1016180749/export_gpx)
 - **Day 5 Lac de Vieux Émosson** [Strava](https://www.strava.com/activities/1017502930) / [Video](https://www.relive.cc/view/1017502930) / [GPX](https://www.strava.com/activities/1017502930/export_gpx)
 
-# Day 1 — Lac d’Émosson
+## Day 1 — Lac d’Émosson
 
 Up to Col des Montets, roughly 7km. They were working on the roads so had a big wait. The drop from Montets to the Swiss border is fun, and we gladly revisit it several times through the week. Border control was unattended except for dinosaur with a yellow cycle helmet. Shortly after, a left turn starts the first of many epic, unending climbs this week.
 
@@ -23,7 +23,9 @@ At the reservoir there is a huge vista of the valley we cycled through earlier. 
 ![Jag, Dan and Andre at top of Lac d’Emosson. Col des Montets and Mont Blanc behind them.](./pano-from-lac-d-emosson.jpg)
 _Jag, Dan and Andre at top of Lac d’Emosson. Col des Montets and Mont Blanc behind them._
 
-# Day 2 — Le Bettex
+## Day 2 — Le Bettex
+
+![Waterfall](./waterfall.jpg)
 
 Heading west from Chamonix. Down through Vaudagne and on towards Passy. Passed a
 rock climbing area. Turning downhill before Passy to the bottom of the valley
@@ -32,7 +34,7 @@ and headed through to Le Fayet.
 On our way to Megève we saw signs to climb up to Le Bettex so we followed them. It was a steepish twisting route up to Le Bettex ski lift. Swift ride back down to catching a few bugs on the way to Saint Gervais for pastries and coffee.
 Looped back home through Vaudagne which seemed easier than anticipated. Good wood stacks all over the place.
 
-# Day 3 — Col de La Forclaz
+## Day 3 — Col de La Forclaz
 
 Lost Andre on way up Col des Montets. His legs had gone.
 Dan+I Crossed into Switzerland and cycled up through terrifying tunnel towards La Triste. Dropped down the epic Col de la Forclaz to Martigny. A good 10 minutes doing nothing but shooting down smooth sweeping mountain roads. From cool breeze at the top to dry heat at the bottom. On finishing, turned immediately back on the hill to start ascending. Needed food though so pulled into pizza restaurant about 1km up.
@@ -40,32 +42,36 @@ Margherite e Jus de pomme.
 
 Filled the bottles and took a free sweet for morale. Next 8km took over an hour and was relentlessly uphill save a for a few generous hairpins. It was extremely hot to begin with, and without water fountains. Reaching the top of this one was hard-earned. The mountain water tasting better than ever. Replenishing descent through La Triste, back to the border and over Col des Montets to Chamonix.
 
-Exhausted after climb from Martigny up Col de La Forclaz
+![Exhausted after climb from Martigny up Col de La Forclaz.](./forclaz.jpg)
+_Exhausted after climb from Martigny up Col de La Forclaz._
 
-# Day 4 — Col des Aravis e Col de La Colombière
+## Day 4 — Col des Aravis e Col de La Colombière
 
 Wanted epic, got epic. Found an organised ride after much inter-netting. It listed a bunch of destinations — Megève, Avaris, Colombière, Passy, Vaudagne. Sounded good and as I plugged the numbers it came to 155km (93mi).
 
 Route to Megève similar to day 2 except not going up Bettex. After Megève descending to begin first of day’s cols. Col des Aravis was a struggle to climb, already a few miles on the clock and ready for a meal. Had to take breather to inhale a banana. Top of Aravis is relatively uninteresting save for a water tap with incredibly high pressure. Cow bells jangling in the field.
 
-Brownie from Stef’s Wee Coffee House
+![Brownie from Stef’s Wee Coffee House](brownie.jpg)
+_Brownie from Stef’s Wee Coffee House_
 
 Descended off the other side and stopped for lunch at Stef’s Wee Coffee House. These guys get ultimate kudos. Probably the best damn baked potato I’ve had, followed by probably the best damn brownie I’ve had. Plus great coffee (not best damn, though, still damn good). For those into brownies, I’ll have you know the cutting of the brownie was enough satisfaction in itself. Never mind eating it.
 
 After enough loitering we took our bellies full of lunch up Col de la Colombière. Starting pretty much from the cafe for a good 15km up into the skies. Probably had the most cycling buddies on this section than at any other time all week. Felt rain at the top so did no hanging round. Little did we know what a treat we were in for. You might have thought descending to Martigny was top-notch, this was maybe double-top-notch! It was slightly slower but more to appreciate through changes of scenery.
 
-View from Col de La Colombière towards La Cluses
+![View from Col de La Colombière towards La Cluses](./colombiere.jpg)
+_View from Col de La Colombière towards La Cluses_
 
 The valley floor’s road from La Cluses to Passy was unpleasant. Lots of traffic, close overtaking. Filled bottles at Passy church. By now starting to rain heavily and legs severely drained. We drag ourselves across the valley ridge, interrupting a lone barman’s cigarette for a caffeine and sugar injection. Climbing up Vaudagne this time like having legs replaced with lead.
 
 We got home. Double Poco Locos all round. Plus ice cream.
 
-# Day 5 — Lac de Vieux Émosson
+## Day 5 — Lac de Vieux Émosson
 
 Remember day 1? Well we didn’t get to the top. Not in our minds anyway.
 Cycling up to Lac d’Émosson we were in agreement that our bodies were simply putting up with us. There were no gold stars handed out. From the pinnacle of day 1’s ride, we observed our target, Lac de Vieux Émosson.
 
-Ice cave ahead!
+![Ice cave ahead!](./ice-cave.jpg)
+_Ice cave ahead!_
 
 Without thinking too much we set out. Shortly after crossing the dam we approached our first obstacle. Loose rocky surface, larger than gravel, not far of slates. Couple of locals assure us road is suitable, they might have been laughing.
 It turned back to proper surface, so we got on it. This was steep. Really steep. This was narrow. Really narrow. No sitting, and no getting near that edge. Around half way up there is another obstacle, an ice cave! After dismounting the bike only just scrapes through. A rocky cave awaits and seems like the gateway to the next challenge.
@@ -74,9 +80,10 @@ Rough ground with sheer drops comes next — I’m not cycling anymore. A waterf
 
 Beer, food, rest, repeat. Time to go home.
 
-Panorama from Lac d’Émosson
+![Panorama from Lac d’Émosson](./pano-from-lac-d-emosson.jpg)
+_Ice cave ahead!_
 
-# Recommendations
+## Recommendations
 
 For bikes, recommend either flying with a bike box through Geneva, or hiring there. We hired and from Slash Cycling based in Chamonix. The friendly owner, Guillaume, made it easy to get everything sorted and added a few suggestions being a cyclist himself.
 
