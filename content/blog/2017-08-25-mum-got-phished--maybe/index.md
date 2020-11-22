@@ -87,5 +87,3 @@ Cheers Mum. Enjoyed writing this. Change your password.
 Oh, I didn't mention 2FA…
 
 [0]: https://www.troyhunt.com/password-managers-dont-have-to-be-perfect-they-just-have-to-be-better-than-not-having-one/
-
-1
