@@ -20,19 +20,19 @@ Find out here how to:
 
 As a user, you need to ensure you have the pre-commit installed first:
 
-```shell
+```bash
 brew install pre-commit
 ```
 
 Each repo needs it installed separately. From a checked out repository, install by running:
 
-```shell
+```bash
 pre-commit install
 ```
 
 This will now run pre-commit each time you git commit. If you want to run pre-commit manually without committing, run:
 
-```shell
+```bash
 pre-commit run --all-files
 ```
 

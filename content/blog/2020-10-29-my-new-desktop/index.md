@@ -25,7 +25,7 @@ First of all I had to "upgrade" out of Lite and get the GUI. There are a few opt
 I just wanted the simplest and least-hassle. I followed the tips at [raspberrytips.com](https://raspberrytips.com/upgrade-raspbian-lite-to-desktop/)
 to make this dream a reality:
 
-```shell
+```bash
 sudo apt update
 sudo apt upgrade
 sudo apt install raspberrypi-ui-mods
@@ -41,9 +41,9 @@ After I changed this, a quick reboot proved that I now jump directly to the desk
 
 It's important to get the basics set up quickly on a new machine. For me this is:
 
-* Install a 1Password client
-* Login to GitHub
-* Write a new blog post (yeah that's this, and this is a joke)
+- Install a 1Password client
+- Login to GitHub
+- Write a new blog post (yeah that's this, and this is a joke)
 
 ## 1Password CLI
 
@@ -59,7 +59,7 @@ for me in the future.
 This is all you need to login. Obviously if you're not using my.1password.com then you'll know about that. Otherwise,
 go wild. This single command is all you need.
 
-```shell
+```bash
 eval $(op signin my.1password.com)
 ```
 
@@ -70,7 +70,7 @@ they have really handed over all the logic to `jq`. That is pretty smart.
 
 Install `jq`:
 
-```shell
+```bash
 sudo apt-get install jq
 ```
 
@@ -79,7 +79,7 @@ is the case you want to make use of the `contains()` function of `jq` to find yo
 
 Follow that with a command to get the actual password.
 
-```shell
+```bash
 op list items --vault Personal | jq '.[] | select(.overview.title | contains("Github"))'
 {
   "uuid": "123123123123123123123123",
@@ -121,7 +121,7 @@ On a Mac there is the handy `cmd` button. With this button I can do copy & paste
 Perhaps someone can tell me how to do this on Raspian. I've always also liked `pbcopy` which is useful
 for seamlessly sending piped output to the clipboard on Mac.
 
-```shell
+```bash
 echo "hello!" | pbcopy
 # then go and cmd+p somewhere
 ```
@@ -129,7 +129,7 @@ echo "hello!" | pbcopy
 On this occasion I opted for `xclip` (`sudo apt-get install xlip`). I've never used it before, but I was
 immediately disappointed at how verbose the basic command is:
 
-```shell
+```bash
 xclip -sel clip
 ```
 
@@ -139,7 +139,7 @@ add my first function to this machine. I created `~/.functions` and added it to 
 
 In `~/.functions` I added:
 
-```shell
+```bash
 clip() {
   xclip -sel clipboard $1
 }
@@ -151,7 +151,7 @@ Now I can just `| clip` to my hearts content. In fact I used it just now to to c
 
 I thank [Martin Kiesel](https://github.com/Kyslik) forever for this tip. Just use `fzf`.
 
-```shell
+```bash
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 cd `~/.fzf`
 ./install
@@ -168,7 +168,7 @@ machine, not for you.
 Make it strong, sure it takes longer, but what else did you have planned for those
 3.8 seconds?
 
-```shell
+```bash
 ssh-keygen -t rsa -b 4096 -C yourName@email.address
 ```
 
@@ -177,7 +177,7 @@ Set a password. Make it 64 characters and very complicated. Put the password in 
 It is safe. Do not worry about it. Log in to you Github account or wherever you need that
 SSH key and plop it in to start coding.
 
-```shell
+```bash
 cat .ssh/id_rsa.pub | clip
 ```
 
