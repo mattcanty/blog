@@ -19,7 +19,7 @@ due to an injury. The start line was Seascale, a small collection of B&Bs on the
 most western coast of Cumbria. We arrived the day before in order to leave at
 around 5am.
 
-IMAGE
+![Bleak coast in Seascale](./seascale.jpg)
 
 When 5am arrived we coasted down to the coast to begin. The full ride was broken
 into 5 segments. On paper the first was the most oppressive, around 40 miles and
@@ -43,6 +43,8 @@ We completed the ride together in just under 12 hours. Minus the ferry crossing
 roughly 11 hours and 50 minutes. Here is a picture of a weather beaten freak
 with his medal.
 
+![Me with my medal](./medal.jpg)
+
 So that was it really! From there we hopped on a train and went ho….. oh wait.
 Sorry, I forgot about the turning round and cycling back again bit.
 
@@ -54,6 +56,8 @@ wind was most definitely against us. There was a point where we had to pedal
 down a fairly steep hill. The miles were relentless and slow, and began to get
 tedious. In the end after just – just! – 113 miles we reached Kendal and called
 it quits.
+
+![Mike and Tim at our own road-side chef!](./mike-and-tim.jpg)
 
 We had our very own support van in the form of Val – one of Micky’s work
 colleagues. This provided us a much needed bacon butty and coffee injection
