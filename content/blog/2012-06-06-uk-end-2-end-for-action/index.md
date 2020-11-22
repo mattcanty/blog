@@ -5,17 +5,20 @@ description: UK End 2 End Bike Ride for Action
 ---
 
 `youtube: SaVPhWxMW8I`
-**WOW! What a journey.** I got back last night and this is there first time I
+
+**WOW! What a journey.**
+
+I got back last night and this is there first time I
 have been on my own with my thoughts for two weeks. It’s been an insane
 experience to be part of. Just watched the weather and it really came to light
 the distance travelled.
 
-Its been 7 months since I first mentioned it and I can’t really say that it has
+Its been [7 months since I first mentioned it][4] and I can’t really say that it has
 been easy – particularly the last two months. Four bike wheels stolen, knee
 problems moving from one knee to the other and all the sponsorship commitments
-made training difficult – read all about it! But I got there in the end
-completing my first century in April, had a great fund-raising gig in May and
-set off finally on 26th May 2012.
+made training difficult – [read all about it][0]! But I got there in the end
+completing my [first century in April][1], had a great [fund-raising gig][2] in May and
+set off finally [on 26th May 2012][3].
 
 Whilst I was away, I kept a brief diary of the daily experiences. That’s what
 this post is all about, the whole thing, stats galore and anything else I can
@@ -27,7 +30,7 @@ If you have a moment, and have found anything you read below or in any of my
 posts helpful or interesting please consider donating at ~~JustGiving~~ - link
 no longer active.
 
-# Quick Facts
+## Quick Facts
 
 - Miles: 968
 - Riding Time: 70 Hours 8 Minutes 8 Seconds
@@ -38,7 +41,7 @@ no longer active.
 - Elevation: 43551ft – _likely to be wildly inaccurate_
 - _Seriously my legs do hurt_
 
-# Heading Out – Arriving Penzance
+## Heading Out – Arriving Penzance
 
 Travelled down on the 1106 from Paddington this morning. Train was on perfect
 time and Jane gave me the most ridiculous wave I have ever seen – must have made
@@ -58,7 +61,7 @@ Moring reveille is at a rather early 5am and apparently alarms will **not** be
 necessary. Just had a quick drink with Paddy and now I’m in tent at 2143 before
 the first and – so they say – hardest day.
 
-# Ride One – Land’s End to Okehampton
+## Ride One – Land’s End to Okehampton
 
 [View on Strava](https://www.strava.com/activities/10165671)
 
@@ -93,7 +96,7 @@ knackered so off to sleep, but before I go must mention riding with Micky and
 Tim throughout most of the day, spending 10 minutes each at the front. Made it
 so much easier than riding alone and I hope to keep riding with them.
 
-# Ride Two – Okehampton to Bristol
+## Ride Two – Okehampton to Bristol
 
 [View on Strava](https://www.strava.com/activities/10165680)
 
@@ -132,7 +135,7 @@ Trying to get some rest now as I haven’t slept very well at all for two nights
 now. Reveille is at 5.30am with breakfast at 6 and riding at 7. The fast people
 are now being delayed by 30 minutes – not me… btw.
 
-# Ride Three – Bristol to Nescliffe
+## Ride Three – Bristol to Nescliffe
 
 [View on Strava](https://www.strava.com/activities/10165681)
 
@@ -147,16 +150,31 @@ are now being delayed by 30 minutes – not me… btw.
 No diary entry – but how about a little
 something regarding all the food I ate. A typical day consisted of:
 
-Breakfast: Full English, Porridge with Honey, Banana, Coffee First Break:
-Tea/Coffee, Chocolate Bar/Flapjack, Sweets Lunch: Locally sourced hot dinner,
-High energy bars, Banana Afternoon Break: Tea/Coffee, Flapjacks, Crisps, Sweets
-and Snacks Dinner: CARBS! Steak, Pasta, Potatoes, Salad – all on one plate
-sometimes Throughout the Day, Sweets, Energy Gels, 5/6 litres of water Ride Four
-– Nescliffe to Lancaster View on Strava Distance: 118.4 Miles Riding Time:
-08:15:39 Elapsed Time: 10:30:20 Max Speed: 35.4 mph Average Speed: 14.3 mph
-Calories: 2996 Elevation: 2968 ft No diary entry.
+- Breakfast: Full English, Porridge with Honey, Banana, Coffee
+- First Break: Tea/Coffee, Chocolate Bar/Flapjack, Sweets
+- Lunch: Locally sourced hot dinner, High energy bars, Banana
+- Afternoon Break: Tea/Coffee, Flapjacks, Crisps, Sweets
+  and Snacks
+- Dinner: CARBS! Steak, Pasta, Potatoes, Salad – all on one plate
+  sometimes
+- Throughout the Day, Sweets, Energy Gels, 5/6 litres of water
+-
 
-# Ride Five – Lancaster to Moffat
+## Ride Four - Nescliffe to Lancaster
+
+[View on Strava](http://app.strava.com/rides/10165670)
+
+- Distance: 118.4
+- Miles Riding Time: 08:15:39
+- Elapsed Time: 10:30:20
+- Max Speed: 35.4 mph
+- Average Speed: 14.3 mph
+- Calories: 2996
+- Elevation: 2968 ft
+
+No diary entry.
+
+## Ride Five – Lancaster to Moffat
 
 [View on Strava](https://www.strava.com/activities/10165668)
 
@@ -200,7 +218,7 @@ Thankfully the sun crept in a dried us all off before we finished, passing into
 Scotland and down a long boring bumpy road to the campsite at Moffat. Just had a
 cold shower to make myself even happier so now to food and bed!
 
-# Ride Six – Moffat to Loch Lomond
+## Ride Six – Moffat to Loch Lomond
 
 [View on Strava](https://www.strava.com/activities/10165656)
 
@@ -236,7 +254,7 @@ all that out and I’ve given myself a right good stretching out.
 5am starter tomorrow, massage at 1030 tonight – I never actually made it to the
 massage – which I definitely need.Glen Coe tomorrow, and just 100 miles – easy!
 
-# Ride Seven – Loch Lomond to Fort William
+## Ride Seven – Loch Lomond to Fort William
 
 [View on Strava](https://www.strava.com/activities/10165665)
 
@@ -249,7 +267,7 @@ massage – which I definitely need.Glen Coe tomorrow, and just 100 miles – ea
 - Elevation: 4988 ft
 
 Glen Coe, hold on let me write that
-again. GLEN COE! What a ride/thrill! The most exhilarating cycling I have ever
+again. **GLEN COE!** What a ride/thrill! The most exhilarating cycling I have ever
 experienced. From when we first came off the busy road and into the open
 highlands it was breath-taking scenery. The most impressive of the descents had
 rock out crops whizzing close by and the distant bens and glen ahead looked
@@ -267,7 +285,7 @@ whinge about the portion sizes, but to be honest they were just normal.
 To Lairg tomorrow, the penultimate day and I’m starting to feel as if I could
 just carry on.
 
-# Ride Eight – Fort William to Lairg
+## Ride Eight – Fort William to Lairg
 
 [View on Strava](https://www.strava.com/activities/10165672)
 
@@ -303,7 +321,7 @@ Its going to be a bitter sweet finish tomorrow I can tell. If only I could have
 a couple of days to let me body recover, and sort out some lower gears for the
 hills, I am very sure I could just carry on riding.
 
-# Ride Nine – Lairg to John O’Groats
+## Ride Nine – Lairg to John O’Groats
 
 [View on Strava](https://www.strava.com/activities/10165657)
 
@@ -338,8 +356,11 @@ waiting for compensation – and of course helping me select my new bike.
 Also to thanks to Micky, Tim, Mike, Graeme and Jo for riding with me – we
 undoubtedly helped each other.
 
-- Leave me a comment below
-- Follow me on Strava
-- Check out my photographs
-- Register your interest for next year
-- SPONSOR ME!
+- [Follow me on Strava](http://app.strava.com/athletes/413417)
+- ~~SPONSOR ME!~~ too late
+
+[0]: https://blog.mattcanty.com/2012-04-03-ecky-pies-ecky-thump-double-grump/
+[1]: https://blog.mattcanty.com/2012-04-16-my-first-century/
+[2]: https://blog.mattcanty.com/2012-05-13-gregson-fund-raising/
+[3]: https://blog.mattcanty.com/2012-05-25-to-the-back-of-the-peloton/
+[4]: https://blog.mattcanty.com/2011-11-15-end-to-end-and-other-stuff/
