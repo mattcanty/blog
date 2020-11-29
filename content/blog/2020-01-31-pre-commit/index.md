@@ -1,12 +1,15 @@
 ---
 title: Pre-Commit Tip
 date: "2020-01-31T12:00:00.000Z"
-description: A handy tip for pre-commit
+description: |
+  Installing pre-commit in a repo on your machine won’t automatically make
+  pre-commit work in that repo on your colleagues machine.
 ---
 
 [pre-commit.com](https://pre-commit.com/)
 
-**pre-commit** is a straightforward way to ensure basic checks are maintained in a respository, before errors are even committed to a local branch.
+**pre-commit** is a straightforward way to ensure basic checks are maintained in
+a respository, before errors are even committed to a local branch.
 
 This is particularly useful for light-touch validations like linting.
 

@@ -1,7 +1,9 @@
 ---
 title: Disabling Pihole with iOS Shortcuts
 date: "2020-11-11T19:24:00.000Z"
-description: Disabling Pihole with iOS Shortcuts
+description: |
+  I have a Pihole running but occassionally I need to disable it. This handy
+  iOS shortcut makes that action a breeze.
 ---
 
 This morning, I had the 2nd annoyance since installing a Pihole on my home network.

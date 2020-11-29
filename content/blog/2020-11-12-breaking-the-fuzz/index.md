@@ -1,7 +1,7 @@
 ---
 title: Breaking the Fuzz
 date: "2020-11-12T19:46:00.000Z"
-description: Breaking the Fuzz
+description: Works wonders mate.
 ---
 
 I hate to admit it, but I am developing a bit of a trend.

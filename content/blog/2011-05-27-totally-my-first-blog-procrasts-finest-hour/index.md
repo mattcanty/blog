@@ -1,7 +1,10 @@
 ---
 title: Totally my first blog… Procrast’s Finest Hour
 date: "2011-05-27T12:00:00.000Z"
-description: Totally my first blog… Procrast’s Finest Hour
+description: |
+  I am currently procrastinating to an incredible level. It’s my final year at
+  university, and the final month or so. A report is due next Friday morning and
+  there is a lot to do!
 ---
 
 Need to think of a good first word to say, although perhaps I missed my chance.

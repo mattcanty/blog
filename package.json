@@ -40,6 +40,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.16",
     "npm-check": "^5.9.2",
     "prettier": "^1.18.2"
   },

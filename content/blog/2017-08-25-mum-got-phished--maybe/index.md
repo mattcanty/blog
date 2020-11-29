@@ -1,7 +1,7 @@
 ---
 title: Mum got phished — Maybe
 date: "2017-08-25T00:00:00.000Z"
-description: Mum got phished — Maybe
+description: Be careful with this message. It contains content that’s typically used to steal personal information.
 ---
 
 Turns out my mum _might_ have been phished this evening. It was difficult to
@@ -49,7 +49,7 @@ They even included a red icon with a fish hook.
 
 ## The problem
 
-Like the majority of people who use computers, they use a single password for everything. There are many, many problems with this which I won’t go into because an incredibly smart man named Troy Hunt has written about it countless times… have you put your email address into have i been pwned yet? [Also read this blog post by him][0].
+Like the majority of people who use computers, they use a single password for everything. There are many, many problems with this which I won’t go into because the incredibly Troy Hunt has written about it countless times… have you put your email address into have i been pwned yet? [Also read this blog post by him][0].
 
 You might think your passwords are strong and random. If you thought of them, then chances are they are not, because you are human. Humans do not random.
 

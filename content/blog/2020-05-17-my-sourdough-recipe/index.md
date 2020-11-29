@@ -1,7 +1,7 @@
 ---
 title: My Sourdough Recipe
 date: "2020-05-17T08:36:00.000Z"
-description: My sourdough recipe inspired by an Irish baker and Ann Dever
+description: Inspired by an Irish baker and Anna Dever
 ---
 
 ## TL;DR; Summary

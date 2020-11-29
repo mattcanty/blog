@@ -1,7 +1,7 @@
 ---
 title: Road Cycling in Chamonix
 date: "2017-06-04T12:00:00.000Z"
-description: Road Cycling in Chamonix
+description: Beer, food, rest, repeat. Time to go home.
 ---
 
 These road-bike rides originate from Chamonix and range from 60 to 155 km. They should be considered strictly-not-for-beginners. Ridden in late-May/early-June, the weather was good and warm or hot despite repeated poor forecasts. Refreshing rain regularly pours down in the late afternoons.

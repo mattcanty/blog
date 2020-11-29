@@ -1,7 +1,9 @@
 ---
 title: Handy 1Password CLI Wrapper Functions
 date: "2020-11-07T15:10:00.000Z"
-description: Handy 1Password CLI Wrapper Functions
+description: |
+  Use 1Password CLI without having to run secondary commands for
+  authentication.
 ---
 
 I quickly got bored of having to execute the login command each time I wanted a password from
@@ -12,9 +14,9 @@ Also the functions wrap up getting the password and copying it to the clipboard.
 
 You will need:
 
-* [1Password CLI](https://support.1password.com/command-line-getting-started/)
-* [xclip](https://github.com/astrand/xclip) eg `apt-get install xclip`
-* [jq](https://github.com/stedolan/jq) eg `apt-get install jq`
+- [1Password CLI](https://support.1password.com/command-line-getting-started/)
+- [xclip](https://github.com/astrand/xclip) eg `apt-get install xclip`
+- [jq](https://github.com/stedolan/jq) eg `apt-get install jq`
 
 The following will cover 99% of my requirements from 1Password (provided I know the _exact_ name of the password item).
 

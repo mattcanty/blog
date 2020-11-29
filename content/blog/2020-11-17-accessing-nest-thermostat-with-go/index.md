@@ -1,7 +1,10 @@
 ---
 title: Accessing Nest Thermostat with Go
 date: "2020-11-17T08:13:00.000Z"
-description: Accessing Nest Thermostat with Go
+description: |
+  Here you will see the minimal set up to get humidity from your thermostat.
+  Once you have that, making assumptions about the SDK and navigating the
+  documentation will hopefully be a little easier!
 ---
 
 !["a Nest thermostat"](./dan-lefebvre-RFAHj4tI37Y-unsplash.jpg)
