@@ -10,15 +10,16 @@ I took lessons from him until I was about 16 and then went on to perform almost 
 
 I'd like to share what I hope will be some helpful tips. These aren't tied to 1 instument. Certainly not the guitar; after all it is not my primary instrument! I hope you'll be able to get some use from them.
 
-1. **Play Every Day** This is by far and away the most important tip. So let's get it out in the open straight away. Ideally your instrument is within reach from somewhere you like to relax, like a sofa. Picking it up for even 1 minute each day will ensure that you are picking it up for 6 hours a year. In all likelihood you'll end up playing for more than 1 minute. Pick it up!
+1. **Play Every Day** This is by far and away the most important tip. So let's get it out in the open straight away. Ideally your instrument is within reach from tend to relax; like a sofa. Picking it up for even 1 minute each day equates to 6.5 hours a year. In all likelihood you'll end up playing for more than 1 minute. Pick it up! Have you picked it up yet?
    1. Put your instrument within arms reach of a chair or sofa
    2. Leave anything you need to play it next to or on the instrument, e.g. plectrum
    3. Don't worry about learning something new
    4. If you don't want to annoy others, mute the guitar with your right hand and practice moving your left hand into different shapes
-2. **Play It Over and Over** and over and over and over. Don't play a whole song if the problem you are having is with one piece of the music. Break it down to that single part of the song. Whilst you may not be playing it perfectly to begin with, over time with tip #1 your dexterity will gradually improve, leading to enhanced control of your instument.
+2. **Play It Over and Over** and over and over and over. Don't play a whole song if you have a problem with one part. Break it down. Whilst you may not be playing it perfectly to begin with, over time with tip #1 your dexterity will gradually improve leading to an enhanced control of your instument.
    1. Learning chords? Alternate between 2 chords you find challenging for 10 minutes
    2. Learning a picking part? Play it for 2 minutes straight (time it)
-3. **Play it Slow** Take what you are learning and bring the tempo all the way down. Focus on timing. If possible use a metronome. Metronome or not, this will allow you to focus on hitting all the right notes in the right order. Without a metronome maintain focus on a steady tempo. Try not to speed up.
+   3. Learning a scale? Practice the first 3 notes, nail it. Then 4, 5, 6, 7... etc
+3. **Play it Slow** Take what you are learning and bring the tempo all the way down. Focus on timing. If possible use a metronome. Metronome or not, this will allow you to focus on hitting all the right notes in the right order. Maintain focus on a steady tempo even without the metronome. Avoid speeding up.
 4. **Play it Fast** I remember reading this on in [The Inner Game of Music by Tim Gallwey][0]. The point is to forget about getting it right, forget about who is watching, forget about musicality. Just go at it as fast as you can. You'll be surprised. I'd say this is probably best suited to something you are aiming to polish, rather than something you are learning from new!
 5. **Focus on the Instrument** If you're doing this right, then you'll probably have a little moment where you re-enter the room after playing. Again, this was something I picked up in The Inner Game of Music. There are ways of obtaining a focus on the instrument:
    1. Look at the instrument. Sounds obvious, but it really works!
