@@ -4,17 +4,11 @@ date: "2021-01-17T11:27:00.000Z"
 description: Learning to play any instrument can be a challenge. The challenge is to maintain continuous effort.
 ---
 
-I have been playing electric bass guitar and the guitar for probably something
-like 20 years now. Since starting out with my Dad, Laurence Canty, teaching me
-at school.
+I have been playing electric bass guitar and the guitar for probably something like 20 years now. Starting out with my Dad, Laurence Canty, teaching me bass at school.
 
-I took lessons from him until I was about 16 and then went on to perform almost
-continuously in bands right up until March 2020. Bring on the next gig is all I
-can say!
+I took lessons from him until I was about 16 and then went on to perform almost continuously in bands right up until March 2020. Bring on the next gig is all I can say!
 
-I'd like to share what I hope will be some helpful tips. These aren't tied to 1
-instument. Certainly not the guitar, after all it is not my primary instrument!
-I hope you'll be able to take 1 or 2 of them away and get some use from them.
+I'd like to share what I hope will be some helpful tips. These aren't tied to 1 instument. Certainly not the guitar; after all it is not my primary instrument! I hope you'll be able to get some use from them.
 
 1. **Play Every Day** This is by far and away the most important tip. So let's get it out in the open straight away. Ideally your instrument is within reach from somewhere you like to relax, like a sofa. Picking it up for even 1 minute each day will ensure that you are picking it up for 6 hours a year. In all likelihood you'll end up playing for more than 1 minute. Pick it up!
    1. Put your instrument within arms reach of a chair or sofa
@@ -29,11 +23,11 @@ I hope you'll be able to take 1 or 2 of them away and get some use from them.
 5. **Focus on the Instrument** If you're doing this right, then you'll probably have a little moment where you re-enter the room after playing. Again, this was something I picked up in The Inner Game of Music. There are ways of obtaining a focus on the instrument:
    1. Look at the instrument. Sounds obvious, but it really works!
    2. Close your eyes
-   3. Focus on your left hand
-   4. Focus on your right hand
+   3. Look at your left hand
+   4. Look at your right hand
    5. Sing quietly to yourself the tune you are playing (no one is listening)
 
-Don't give up. Playing guitar is a long game. But with these tips, you will improve. I would like to share now, a video I recorded today. It inspired me to write these tips. I wouldn't normally share something which I consider to be so rough around the edges. I leave my personal thoughts on the video below.
+Don't give up. Playing guitar is a long game. But with these tips, you will improve. I'm sharing a video I recorded today. It inspired me to write these tips. I wouldn't normally share something which I consider to be so rough around the edges. I leave my personal thoughts on the video below.
 
 <iframe src="https://drive.google.com/file/d/1P6W-0j8_PoNMW5mBJeqvSlH8iJashbFv/preview" height="500"></iframe>
 
