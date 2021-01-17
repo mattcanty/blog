@@ -29,7 +29,7 @@ I'd like to share what I hope will be some helpful tips. These aren't tied to 1 
 
 Don't give up. Playing guitar is a long game. But with these tips, you will improve. I'm sharing a video I recorded today. It inspired me to write these tips. I wouldn't normally share something which I consider to be so rough around the edges. I leave my personal thoughts on the video below.
 
-<iframe src="https://drive.google.com/file/d/1P6W-0j8_PoNMW5mBJeqvSlH8iJashbFv/preview" height="500"></iframe>
+`youtube: f3yjdHFf_LE`
 
 1. I am consumed by red-light syndrome. Once the camera is on, all I can think about is the camera. (#5)
 2. Lockdown beard.

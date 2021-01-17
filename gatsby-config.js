@@ -44,6 +44,13 @@ module.exports = {
               height: 400,
               related: false,
               noIframeBorder: true,
+              urlOverrides: [
+                {
+                  id: "youtube",
+                  embedURL: (videoId) =>
+                    `https://www.youtube-nocookie.com/embed/${videoId}`,
+                },
+              ],
             },
           },
           {
