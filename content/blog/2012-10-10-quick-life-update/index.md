@@ -1,6 +1,6 @@
 ---
 title: Quick Life Update
-date: "2020-10-10T00:00:00.000Z"
+date: "2012-10-10T00:00:00.000Z"
 description: Quick Life Update
 ---
 
